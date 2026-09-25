@@ -7436,7 +7436,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>CONTINUE</comment>
 </data>
 <data name="Announcement.Title" xml:space="preserve">
-  <value>SERVER ANNOUNCEMENT</value>
+  <value>HEAR YE, HEAR YE</value>
   <comment>SERVER ANNOUNCEMENT</comment>
 </data>
 <data name="Announcement.CloseLabel" xml:space="preserve">
@@ -7560,7 +7560,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>NOT FOLLOWING</comment>
 </data>
 <data name="DeadOverlay.DeadHeading" xml:space="preserve">
-  <value>JONES HAS YE</value>
+  <value>DAVY JONES GOT YE</value>
   <comment>YOU ARE DEAD</comment>
 </data>
 <data name="DeadOverlay.AcquiringPlaceholder" xml:space="preserve">
