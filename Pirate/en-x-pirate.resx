@@ -7912,7 +7912,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>MANIFEST</comment>
 </data>
 <data name="EorScreen.ExtractedSectionLine" xml:space="preserve">
-  <value>ESCAPED // {COUNT}</value>
+  <value>SAILED AWAY // {COUNT}</value>
   <comment>EXTRACTED // {COUNT}</comment>
 </data>
 <data name="EorScreen.LostSectionLine" xml:space="preserve">
@@ -7956,7 +7956,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>NEXT ROUND IN</comment>
 </data>
 <data name="EorScreen.LastWordsTag" xml:space="preserve">
-  <value>LAST WORDS</value>
+  <value>DYIN' WORDS</value>
   <comment>LAST WORDS</comment>
 </data>
 <data name="EorScreen.NoLastWordsText" xml:space="preserve">
@@ -8012,11 +8012,11 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>FRIENDLY FIRE TAKEN</comment>
 </data>
 <data name="EorScreen.StatMeleeDealt" xml:space="preserve">
-  <value>MELEE DAMAGE DEALT</value>
+  <value>BLOWS DEALT</value>
   <comment>MELEE DAMAGE DEALT</comment>
 </data>
 <data name="EorScreen.StatMeleeTaken" xml:space="preserve">
-  <value>MELEE DAMAGE TAKEN</value>
+  <value>BLOWS TAKEN</value>
   <comment>MELEE DAMAGE TAKEN</comment>
 </data>
 <data name="EorScreen.StatRevives" xml:space="preserve">
@@ -8056,7 +8056,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>BODIES CREMATED</comment>
 </data>
 <data name="EorScreen.StatCloseCallRevives" xml:space="preserve">
-  <value>CLOSE SHAVES</value>
+  <value>SOULS SNATCHED BACK</value>
   <comment>CLOSE CALL REVIVES</comment>
 </data>
 <data name="EorScreen.StatXenosKilled" xml:space="preserve">
@@ -8096,7 +8096,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>~UNKNOWN STAT</comment>
 </data>
 <data name="EorScreen.StatusExtracted" xml:space="preserve">
-  <value>ESCAPED</value>
+  <value>SAILED AWAY</value>
   <comment>EXTRACTED</comment>
 </data>
 <data name="EorScreen.StatusLost" xml:space="preserve">
@@ -72592,7 +72592,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>most xenomorphs destroyed</comment>
 </data>
 <data name="Honor.CodeBlue.Name" xml:space="preserve">
-  <value>CLOSE SHAVE</value>
+  <value>ROBBED JONES</value>
   <comment>CODE BLUE</comment>
 </data>
 <data name="Honor.CodeBlue.Flavor" xml:space="preserve">
