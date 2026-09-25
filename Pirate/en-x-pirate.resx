@@ -72000,7 +72000,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>pick up</comment>
 </data>
 <data name="Def.Obj.Item.SentryKit.Tripod.DisplayName" xml:space="preserve">
-  <value>sentry tripod kit</value>
+  <value>swivel cannon kit</value>
   <comment>sentry tripod kit</comment>
 </data>
 <data name="Def.Obj.Item.SentryKit.Tripod.Verb.PickUp" xml:space="preserve">
@@ -72008,19 +72008,19 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>pick up</comment>
 </data>
 <data name="Def.Obj.Structure.SentryTripod.Off.DisplayName" xml:space="preserve">
-  <value>sentry tripod</value>
+  <value>swivel cannon</value>
   <comment>sentry tripod</comment>
 </data>
 <data name="Def.Obj.Structure.SentryTripod.On.DisplayName" xml:space="preserve">
-  <value>sentry tripod</value>
+  <value>swivel cannon</value>
   <comment>sentry tripod</comment>
 </data>
 <data name="Def.Obj.Structure.SentryTripod.OnEmpty.DisplayName" xml:space="preserve">
-  <value>sentry tripod</value>
+  <value>swivel cannon</value>
   <comment>sentry tripod</comment>
 </data>
 <data name="Def.Obj.Structure.SentryTripod.NoPower.DisplayName" xml:space="preserve">
-  <value>sentry tripod</value>
+  <value>swivel cannon</value>
   <comment>sentry tripod</comment>
 </data>
 <data name="Def.Obj.Item.Weapon.Gun.Rifle.Lmg.Sentry.DisplayName" xml:space="preserve">
@@ -72032,7 +72032,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>pick up</comment>
 </data>
 <data name="Def.Obj.Item.Storage.Box.SentryKit.DisplayName" xml:space="preserve">
-  <value>sentry tripod case</value>
+  <value>swivel cannon case</value>
   <comment>sentry tripod case</comment>
 </data>
 <data name="Def.Obj.Item.Storage.Box.SentryKit.Verb.PickUp" xml:space="preserve">
@@ -72040,7 +72040,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>pick up</comment>
 </data>
 <data name="Def.Obj.Item.Storage.Box.SentryKit.Open.DisplayName" xml:space="preserve">
-  <value>sentry tripod case</value>
+  <value>swivel cannon case</value>
   <comment>sentry tripod case</comment>
 </data>
 <data name="Def.Obj.Item.Storage.Box.SentryKit.Open.Verb.PickUp" xml:space="preserve">
@@ -73328,7 +73328,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>APC frame</comment>
 </data>
 <data name="Construction.SentryTripod.DisplayName" xml:space="preserve">
-  <value>sentry tripod</value>
+  <value>swivel cannon</value>
   <comment>sentry tripod</comment>
 </data>
 <data name="Construction.M2Tripod.DisplayName" xml:space="preserve">
@@ -75116,7 +75116,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>A XENO NEST FESTERS IN THE COLONY // DRONES HUNT AT NIGHT AND RETURN AT DAWN</comment>
 </data>
 <data name="Modifier.UnnaturalNight.Label" xml:space="preserve">
-  <value>UNNATURAL NIGHT</value>
+  <value>LONG WATCH</value>
   <comment>UNNATURAL NIGHT</comment>
 </data>
 <data name="Modifier.UnnaturalNight.Tooltip" xml:space="preserve">
