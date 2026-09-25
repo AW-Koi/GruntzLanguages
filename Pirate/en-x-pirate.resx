@@ -1036,7 +1036,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>{TARGET} is hit in the {ZONE}.</comment>
 </data>
 <data name="Chat.PointGround" xml:space="preserve">
-  <value>{ACTOR} points to the ground.</value>
+  <value>{ACTOR} points t' the deck.</value>
   <comment>{ACTOR} points to the ground.</comment>
 </data>
 <data name="Chat.PointTarget" xml:space="preserve">
@@ -1240,7 +1240,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>safety</comment>
 </data>
 <data name="HoverVerbLabels.MagazinePull" xml:space="preserve">
-  <value>take rounds</value>
+  <value>take shots</value>
   <comment>take rounds</comment>
 </data>
 <data name="HoverVerbLabels.Roll" xml:space="preserve">
@@ -3972,7 +3972,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment> Ally hit chance while scoped</comment>
 </data>
 <data name="TraitChips.Unit.ShotgunDamage" xml:space="preserve">
-  <value> Shotgun damage</value>
+  <value> Blunderbuss damage</value>
   <comment> Shotgun damage</comment>
 </data>
 <data name="TraitChips.Unit.WeldTime" xml:space="preserve">
@@ -7708,7 +7708,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>XENO</comment>
 </data>
 <data name="WorldMap.LegendAnomalyLabel" xml:space="preserve">
-  <value>LEVIATHAN</value>
+  <value>DAVY JONES</value>
   <comment>ANOMALY</comment>
 </data>
 <data name="WorldMap.LegendWaveLabel" xml:space="preserve">
@@ -7864,7 +7864,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>NO OPERATORS EXTRACTED // THE COLONY IS LOST</comment>
 </data>
 <data name="EorScreen.AnomalyOverrunLine" xml:space="preserve">
-  <value>THE LEVIATHAN OVERRAN THE COLONY // SURVIVORS ESCAPED</value>
+  <value>DAVY JONES OVERRAN THE COLONY // SURVIVORS ESCAPED</value>
   <comment>THE ANOMALY OVERRAN THE COLONY // SURVIVORS EXTRACTED</comment>
 </data>
 <data name="EorScreen.OperativesLostLine" xml:space="preserve">
@@ -7872,11 +7872,11 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>ALL OPERATIVES LOST</comment>
 </data>
 <data name="EorScreen.AnomalyContainedLine" xml:space="preserve">
-  <value>THE LEVIATHAN WAS CAGED // COLONY SECURED</value>
+  <value>DAVY JONES WAS CAGED // COLONY SECURED</value>
   <comment>THE ANOMALY WAS CONTAINED // COLONY SECURED</comment>
 </data>
 <data name="EorScreen.AnomalyContainedNoExtractionLine" xml:space="preserve">
-  <value>THE LEVIATHAN WAS CAGED // NOT A SOUL ESCAPED</value>
+  <value>DAVY JONES WAS CAGED // NOT A SOUL ESCAPED</value>
   <comment>THE ANOMALY WAS CONTAINED // NOBODY EXTRACTED</comment>
 </data>
 <data name="EorScreen.ExtractedVerdictLine" xml:space="preserve">
@@ -8080,7 +8080,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>TIME IN A CLOSET</comment>
 </data>
 <data name="EorScreen.StatLeglessTiles" xml:space="preserve">
-  <value>DISTANCE CRAWLED LEGLESS</value>
+  <value>DISTANCE CRAWLED WITHOUT A PEG</value>
   <comment>DISTANCE CRAWLED LEGLESS</comment>
 </data>
 <data name="EorScreen.StatDraggedDownedTiles" xml:space="preserve">
@@ -8124,7 +8124,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>BURNED</comment>
 </data>
 <data name="EorScreen.CauseBledOut" xml:space="preserve">
-  <value>BLED OUT</value>
+  <value>BLED DRY</value>
   <comment>BLED OUT</comment>
 </data>
 <data name="EorScreen.CauseBlast" xml:space="preserve">
@@ -8136,11 +8136,11 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>DELIMBED</comment>
 </data>
 <data name="EorScreen.CauseBurst" xml:space="preserve">
-  <value>BURSTED</value>
+  <value>HATCHED A DEVIL</value>
   <comment>BURSTED</comment>
 </data>
 <data name="EorScreen.CauseOverdose" xml:space="preserve">
-  <value>OVERDOSE</value>
+  <value>DRANK TOO DEEP</value>
   <comment>OVERDOSE</comment>
 </data>
 <data name="EorScreen.CauseFell" xml:space="preserve">
@@ -8156,7 +8156,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>UNMADE</comment>
 </data>
 <data name="EorScreen.CauseOther" xml:space="preserve">
-  <value>OTHER</value>
+  <value>DAVY JONES KNOWS</value>
   <comment>OTHER</comment>
 </data>
 <data name="CrtWidgets.On" xml:space="preserve">
@@ -10656,15 +10656,15 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>extracted embryo</comment>
 </data>
 <data name="Def.Character.Anomaly.OldOne.DisplayName" xml:space="preserve">
-  <value>the Kraken</value>
+  <value>Davy Jones</value>
   <comment>the Old One</comment>
 </data>
 <data name="Def.Character.Anomaly.OldOne.Manifest.DisplayName" xml:space="preserve">
-  <value>the Kraken</value>
+  <value>Davy Jones</value>
   <comment>the Old One</comment>
 </data>
 <data name="Def.Character.Anomaly.OldOne.Manifest.Extraction.DisplayName" xml:space="preserve">
-  <value>the Kraken</value>
+  <value>Davy Jones</value>
   <comment>the Old One</comment>
 </data>
 <data name="Def.Character.Anomaly.Skitter.DisplayName" xml:space="preserve">
@@ -19172,7 +19172,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>vehicle ASRS console</comment>
 </data>
 <data name="Def.Obj.Structure.Machinery.Computer.SupplyDropConsole.Limited.DisplayName" xml:space="preserve">
-  <value>Supply Drop Console</value>
+  <value>Cargo Drop Console</value>
   <comment>Supply Drop Console</comment>
 </data>
 <data name="Def.Obj.Structure.Machinery.Computer.TechControl.DisplayName" xml:space="preserve">
@@ -28040,23 +28040,23 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>Stairs</comment>
 </data>
 <data name="Def.Obj.Structure.SupplyDrop.Alpha.DisplayName" xml:space="preserve">
-  <value>Supply Drop Pad</value>
+  <value>Cargo Drop Pad</value>
   <comment>Supply Drop Pad</comment>
 </data>
 <data name="Def.Obj.Structure.SupplyDrop.Bravo.DisplayName" xml:space="preserve">
-  <value>Supply Drop Pad</value>
+  <value>Cargo Drop Pad</value>
   <comment>Supply Drop Pad</comment>
 </data>
 <data name="Def.Obj.Structure.SupplyDrop.Charlie.DisplayName" xml:space="preserve">
-  <value>Supply Drop Pad</value>
+  <value>Cargo Drop Pad</value>
   <comment>Supply Drop Pad</comment>
 </data>
 <data name="Def.Obj.Structure.SupplyDrop.Delta.DisplayName" xml:space="preserve">
-  <value>Supply Drop Pad</value>
+  <value>Cargo Drop Pad</value>
   <comment>Supply Drop Pad</comment>
 </data>
 <data name="Def.Obj.Structure.SupplyDrop.Echo.DisplayName" xml:space="preserve">
-  <value>Supply Drop Pad</value>
+  <value>Cargo Drop Pad</value>
   <comment>Supply Drop Pad</comment>
 </data>
 <data name="Def.Obj.Structure.Surface.Rack.DisplayName" xml:space="preserve">
@@ -72480,7 +72480,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>most money raised</comment>
 </data>
 <data name="Honor.Butterfingers.Name" xml:space="preserve">
-  <value>BUTTERFINGERS</value>
+  <value>MUTINEER</value>
   <comment>BUTTERFINGERS</comment>
 </data>
 <data name="Honor.Butterfingers.Flavor" xml:space="preserve">
@@ -72624,11 +72624,11 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>most jackpots won, two at the least</comment>
 </data>
 <data name="Honor.Marked.Name" xml:space="preserve">
-  <value>KRAKEN-KISSED</value>
+  <value>JONES-KISSED</value>
   <comment>MARKED</comment>
 </data>
 <data name="Honor.Marked.Flavor" xml:space="preserve">
-  <value>struck by the Kraken an' still made it out</value>
+  <value>struck by Davy Jones an' still made it out</value>
   <comment>struck by the Old One and still made it out</comment>
 </data>
 <data name="Honor.LastCall.Name" xml:space="preserve">
@@ -72640,7 +72640,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>caught the last ride out of a burning colony</comment>
 </data>
 <data name="Honor.Reaper.Name" xml:space="preserve">
-  <value>REAPER</value>
+  <value>DREAD PIRATE</value>
   <comment>REAPER</comment>
 </data>
 <data name="Honor.Reaper.Flavor" xml:space="preserve">
@@ -72660,7 +72660,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>SLUG RACE</comment>
 </data>
 <data name="Honor.SlugRace.Flavor" xml:space="preserve">
-  <value>greatest distance crawled with a leg left behind, fifty tiles at the least</value>
+  <value>greatest distance crawled a leg short an' no peg t' lean on, fifty tiles at the least</value>
   <comment>greatest distance crawled with a leg left behind, fifty tiles at the least</comment>
 </data>
 <data name="Honor.StretcherBearer.Name" xml:space="preserve">
@@ -72672,7 +72672,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>furthest hauling the downed, five hundred tiles at the least</comment>
 </data>
 <data name="Honor.LightningRod.Name" xml:space="preserve">
-  <value>LIGHTNING ROD</value>
+  <value>ST ELMO'S FIRE</value>
   <comment>LIGHTNING ROD</comment>
 </data>
 <data name="Honor.LightningRod.Flavor" xml:space="preserve">
@@ -72688,7 +72688,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>Military fire discipline. Steadier aim and a faster follow-up shot.</comment>
 </data>
 <data name="Trait.Soldier.Name" xml:space="preserve">
-  <value>Soldier</value>
+  <value>Able Seaman</value>
   <comment>Soldier</comment>
 </data>
 <data name="Trait.Soldier.Flavor" xml:space="preserve">
@@ -72720,7 +72720,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>Not really smart enough for this kind of thing.</comment>
 </data>
 <data name="Trait.Delicate.Name" xml:space="preserve">
-  <value>Delicate</value>
+  <value>Fair-Weather</value>
   <comment>Delicate</comment>
 </data>
 <data name="Trait.Delicate.Flavor" xml:space="preserve">
@@ -72800,15 +72800,15 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>Knows every stain. Mops faster than anyone, and gets paid for the mess.</comment>
 </data>
 <data name="Trait.Connected.Name" xml:space="preserve">
-  <value>Connected</value>
+  <value>Friends in Port</value>
   <comment>Connected</comment>
 </data>
 <data name="Trait.Connected.Flavor" xml:space="preserve">
-  <value>Knows the right people. Kills pay a bigger bounty.</value>
+  <value>Knows the right people. Kills fetch a fatter bounty.</value>
   <comment>Knows the right people. Kills pay a bigger bounty.</comment>
 </data>
 <data name="Trait.BlastHardened.Name" xml:space="preserve">
-  <value>Blast Hardened</value>
+  <value>Powder-Scarred</value>
   <comment>Blast Hardened</comment>
 </data>
 <data name="Trait.BlastHardened.Flavor" xml:space="preserve">
@@ -72816,7 +72816,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>Lived next to the ordnance long enough to stop flinching. Explosions hit softer.</comment>
 </data>
 <data name="Trait.Tough.Name" xml:space="preserve">
-  <value>Tough</value>
+  <value>Iron Hull</value>
   <comment>Tough</comment>
 </data>
 <data name="Trait.Tough.Flavor" xml:space="preserve">
@@ -72856,7 +72856,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>Grew up behind a pizza counter. Gets paid for every pizza made.</comment>
 </data>
 <data name="Trait.HardOfHearing.Name" xml:space="preserve">
-  <value>Hard of Hearing</value>
+  <value>Cannon-Deaf</value>
   <comment>Hard of Hearing</comment>
 </data>
 <data name="Trait.HardOfHearing.Flavor" xml:space="preserve">
@@ -75124,19 +75124,19 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>THE NIGHT DOES NOT END // THE SKY STAYS DARK FOR THE WHOLE ROUND // MONSTERS ROAM THE COLONY</comment>
 </data>
 <data name="Modifier.Anomaly.Label" xml:space="preserve">
-  <value>LEVIATHANS</value>
+  <value>THE CURSE</value>
   <comment>ANOMALY</comment>
 </data>
 <data name="Modifier.Anomaly.Tooltip" xml:space="preserve">
-  <value>A LEVIATHAN HAUNTS THE COLONY // IT CANNOT BE KILLED // IT HEARS YER VOICE</value>
+  <value>DAVY JONES HAUNTS THE COLONY // HE CANNOT BE KILLED // HE HEARS YER VOICE</value>
   <comment>AN UNNATURAL ENTITY HAUNTS THE COLONY // IT CANNOT BE KILLED // IT HEARS YOUR VOICE</comment>
 </data>
 <data name="Modifier.Containment.Label" xml:space="preserve">
-  <value>CAGE THE LEVIATHAN</value>
+  <value>CAGE DAVY JONES</value>
   <comment>CONTAINMENT</comment>
 </data>
 <data name="Modifier.Containment.Tooltip" xml:space="preserve">
-  <value>THE LEVIATHAN MUST BE CAGED IN A FIELD T' BE DESTROYED // RING IT WITH CONTAINMENT EMITTERS AN' HOLD THE FIELD</value>
+  <value>DAVY JONES MUST BE CAGED IN A FIELD T' BE DESTROYED // RING HIM WITH CONTAINMENT EMITTERS AN' HOLD THE FIELD</value>
   <comment>THE ENTITY MUST BE CONTAINED IN A FIELD TO BE DESTROYED // RING IT WITH CONTAINMENT EMITTERS AND HOLD THE FIELD</comment>
 </data>
 <data name="Modifier.Extraction.Label" xml:space="preserve">
@@ -75160,15 +75160,15 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>XenoSurvival</comment>
 </data>
 <data name="Mode.Anomaly.DisplayName" xml:space="preserve">
-  <value>Leviathans</value>
+  <value>The Curse</value>
   <comment>Anomaly</comment>
 </data>
 <data name="Mode.Anomaly.Phase.WaveAssault.Label" xml:space="preserve">
-  <value>THE LEVIATHANS STIR</value>
+  <value>THE CURSE STIRS</value>
   <comment>ANOMALY EVENT</comment>
 </data>
 <data name="Mode.Anomaly.Phase.Containment.Label" xml:space="preserve">
-  <value>CAGE THE LEVIATHAN</value>
+  <value>CAGE DAVY JONES</value>
   <comment>ANOMALY CONTAINMENT</comment>
 </data>
 </root>
