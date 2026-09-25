@@ -72624,7 +72624,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>most jackpots won, two at the least</comment>
 </data>
 <data name="Honor.Marked.Name" xml:space="preserve">
-  <value>CURSED</value>
+  <value>HEXED</value>
   <comment>MARKED</comment>
 </data>
 <data name="Honor.Marked.Flavor" xml:space="preserve">
@@ -75124,7 +75124,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>THE NIGHT DOES NOT END // THE SKY STAYS DARK FOR THE WHOLE ROUND // MONSTERS ROAM THE COLONY</comment>
 </data>
 <data name="Modifier.Anomaly.Label" xml:space="preserve">
-  <value>THE CURSE</value>
+  <value>CURSED</value>
   <comment>ANOMALY</comment>
 </data>
 <data name="Modifier.Anomaly.Tooltip" xml:space="preserve">
@@ -75160,7 +75160,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>XenoSurvival</comment>
 </data>
 <data name="Mode.Anomaly.DisplayName" xml:space="preserve">
-  <value>The Curse</value>
+  <value>Cursed</value>
   <comment>Anomaly</comment>
 </data>
 <data name="Mode.Anomaly.Phase.WaveAssault.Label" xml:space="preserve">
