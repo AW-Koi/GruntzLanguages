@@ -28164,11 +28164,11 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>telephone receiver</comment>
 </data>
 <data name="Def.Obj.Structure.Transmitter.Rotary.DisplayName" xml:space="preserve">
-  <value>rotary telephone</value>
+  <value>crank tube</value>
   <comment>rotary telephone</comment>
 </data>
 <data name="Def.Obj.Structure.Transmitter.Rotary.NoDnd.DisplayName" xml:space="preserve">
-  <value>rotary telephone</value>
+  <value>crank tube</value>
   <comment>rotary telephone</comment>
 </data>
 <data name="Def.Obj.Structure.Transmitter.SaveStation.ColonyNet.DisplayName" xml:space="preserve">
@@ -42472,7 +42472,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>pick up</comment>
 </data>
 <data name="Def.Obj.Item.Device.Megaphone.DisplayName" xml:space="preserve">
-  <value>megaphone</value>
+  <value>speaking trumpet</value>
   <comment>megaphone</comment>
 </data>
 <data name="Def.Obj.Item.Device.Megaphone.Verb.PickUp" xml:space="preserve">
