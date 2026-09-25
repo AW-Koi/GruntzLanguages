@@ -28152,15 +28152,15 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>toilet</comment>
 </data>
 <data name="Def.Obj.Structure.Transmitter.DisplayName" xml:space="preserve">
-  <value>telephone receiver</value>
+  <value>speaking tube</value>
   <comment>telephone receiver</comment>
 </data>
 <data name="Def.Obj.Structure.Transmitter.ColonyNet.DisplayName" xml:space="preserve">
-  <value>telephone receiver</value>
+  <value>speaking tube</value>
   <comment>telephone receiver</comment>
 </data>
 <data name="Def.Obj.Structure.Transmitter.NoDnd.DisplayName" xml:space="preserve">
-  <value>telephone receiver</value>
+  <value>speaking tube</value>
   <comment>telephone receiver</comment>
 </data>
 <data name="Def.Obj.Structure.Transmitter.Rotary.DisplayName" xml:space="preserve">
@@ -28172,11 +28172,11 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>rotary telephone</comment>
 </data>
 <data name="Def.Obj.Structure.Transmitter.SaveStation.ColonyNet.DisplayName" xml:space="preserve">
-  <value>telephone receiver</value>
+  <value>speaking tube</value>
   <comment>telephone receiver</comment>
 </data>
 <data name="Def.Obj.Structure.Transmitter.Tent.DisplayName" xml:space="preserve">
-  <value>telephone receiver</value>
+  <value>speaking tube</value>
   <comment>telephone receiver</comment>
 </data>
 <data name="Def.Obj.Structure.Tunnel.DisplayName" xml:space="preserve">
