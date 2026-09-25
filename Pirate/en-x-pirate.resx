@@ -7872,11 +7872,11 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>ALL OPERATIVES LOST</comment>
 </data>
 <data name="EorScreen.AnomalyContainedLine" xml:space="preserve">
-  <value>DAVY JONES WAS CAGED // COLONY SECURED</value>
+  <value>DAVY JONES IN IRONS // COLONY SECURED</value>
   <comment>THE ANOMALY WAS CONTAINED // COLONY SECURED</comment>
 </data>
 <data name="EorScreen.AnomalyContainedNoExtractionLine" xml:space="preserve">
-  <value>DAVY JONES WAS CAGED // NOT A SOUL ESCAPED</value>
+  <value>DAVY JONES IN IRONS // NOT A SOUL ESCAPED</value>
   <comment>THE ANOMALY WAS CONTAINED // NOBODY EXTRACTED</comment>
 </data>
 <data name="EorScreen.ExtractedVerdictLine" xml:space="preserve">
@@ -75132,11 +75132,11 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>AN UNNATURAL ENTITY HAUNTS THE COLONY // IT CANNOT BE KILLED // IT HEARS YOUR VOICE</comment>
 </data>
 <data name="Modifier.Containment.Label" xml:space="preserve">
-  <value>CAGE JONES</value>
+  <value>IN IRONS</value>
   <comment>CONTAINMENT</comment>
 </data>
 <data name="Modifier.Containment.Tooltip" xml:space="preserve">
-  <value>DAVY JONES MUST BE CAGED IN A FIELD T' BE DESTROYED // RING HIM WITH CONTAINMENT EMITTERS AN' HOLD THE FIELD</value>
+  <value>CLAP DAVY JONES IN IRONS IN A FIELD T' DESTROY HIM // RING HIM WITH CONTAINMENT EMITTERS AN' HOLD THE FIELD</value>
   <comment>THE ENTITY MUST BE CONTAINED IN A FIELD TO BE DESTROYED // RING IT WITH CONTAINMENT EMITTERS AND HOLD THE FIELD</comment>
 </data>
 <data name="Modifier.Extraction.Label" xml:space="preserve">
@@ -75168,7 +75168,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>ANOMALY EVENT</comment>
 </data>
 <data name="Mode.Anomaly.Phase.Containment.Label" xml:space="preserve">
-  <value>CAGE DAVY JONES</value>
+  <value>CLAP JONES IN IRONS</value>
   <comment>ANOMALY CONTAINMENT</comment>
 </data>
 </root>
