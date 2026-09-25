@@ -1944,7 +1944,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>release</comment>
 </data>
 <data name="InteractClick.OutOfReach" xml:space="preserve">
-  <value>out of reach</value>
+  <value>out o' reach</value>
   <comment>out of reach</comment>
 </data>
 <data name="InteractClick.RoundsDoNotMatch" xml:space="preserve">
@@ -1972,7 +1972,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>the label won't stick to that</comment>
 </data>
 <data name="LabelAim.OutOfReach" xml:space="preserve">
-  <value>out of reach</value>
+  <value>out o' reach</value>
   <comment>out of reach</comment>
 </data>
 <data name="DenyText.DoesNotFit" xml:space="preserve">
@@ -2348,11 +2348,11 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>~MOODLET</comment>
 </data>
 <data name="Moodlet.Flavor.Blood.Giving" xml:space="preserve">
-  <value>Giving blood</value>
+  <value>Givin' blood</value>
   <comment>Giving blood</comment>
 </data>
 <data name="Moodlet.Flavor.Blood.Receiving" xml:space="preserve">
-  <value>Receiving blood</value>
+  <value>Receivin' blood</value>
   <comment>Receiving blood</comment>
 </data>
 <data name="Moodlet.Flavor.Blood.Attached" xml:space="preserve">
@@ -2468,11 +2468,11 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>Shellshocked, hearing gone</comment>
 </data>
 <data name="Moodlet.Flavor.Coughing" xml:space="preserve">
-  <value>Coughing up blood</value>
+  <value>Coughin' up blood</value>
   <comment>Coughing up blood</comment>
 </data>
 <data name="Moodlet.Flavor.Gasping.Mild" xml:space="preserve">
-  <value>Breath coming short</value>
+  <value>Breath comin' short</value>
   <comment>Breath coming short</comment>
 </data>
 <data name="Moodlet.Flavor.Gasping.Moderate" xml:space="preserve">
@@ -2484,11 +2484,11 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>Starved of air, going under</comment>
 </data>
 <data name="Moodlet.Flavor.Headache.Severe" xml:space="preserve">
-  <value>Splitting headache</value>
+  <value>Splittin' headache</value>
   <comment>Splitting headache</comment>
 </data>
 <data name="Moodlet.Flavor.Headache.Mild" xml:space="preserve">
-  <value>Pounding headache</value>
+  <value>Poundin' headache</value>
   <comment>Pounding headache</comment>
 </data>
 <data name="Moodlet.Flavor.Unconscious.Critical" xml:space="preserve">
@@ -2532,7 +2532,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>Wet through, clothes clinging</comment>
 </data>
 <data name="Moodlet.Flavor.Damp.Soaked" xml:space="preserve">
-  <value>Soaked to the bone</value>
+  <value>Soaked t' the bone</value>
   <comment>Soaked to the bone</comment>
 </data>
 <data name="Moodlet.Flavor.Damp.Immersed" xml:space="preserve">
@@ -2588,7 +2588,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>Ash and wind scour the open ground</comment>
 </data>
 <data name="Moodlet.Flavor.Dread" xml:space="preserve">
-  <value>Something is near</value>
+  <value>Somethin' be near</value>
   <comment>Something is near</comment>
 </data>
 <data name="Moodlet.Flavor.Irradiated" xml:space="preserve">
@@ -3436,7 +3436,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>held two-handed</comment>
 </data>
 <data name="EquipSlotsUi.Reason.OutOfReach" xml:space="preserve">
-  <value>out of reach</value>
+  <value>out o' reach</value>
   <comment>out of reach</comment>
 </data>
 <data name="EquipSlotsUi.Reason.HandMissing" xml:space="preserve">
@@ -3476,7 +3476,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>no reordering here</comment>
 </data>
 <data name="StorageUi.Reason.OutOfReach" xml:space="preserve">
-  <value>out of reach</value>
+  <value>out o' reach</value>
   <comment>out of reach</comment>
 </data>
 <data name="StorageUi.Reason.OneWay" xml:space="preserve">
@@ -4096,7 +4096,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>Unload</comment>
 </data>
 <data name="ContextMenu.Strip" xml:space="preserve">
-  <value>Strip</value>
+  <value>Rummage</value>
   <comment>Strip</comment>
 </data>
 <data name="ContextMenu.Climb" xml:space="preserve">
@@ -7000,7 +7000,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>FACIAL</comment>
 </data>
 <data name="CharacterSetup.Tab.Wardrobe" xml:space="preserve">
-  <value>WARDROBE</value>
+  <value>SEA CHEST</value>
   <comment>WARDROBE</comment>
 </data>
 <data name="LoadoutSelect.HeaderText" xml:space="preserve">
@@ -7088,7 +7088,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>OBSERVING</comment>
 </data>
 <data name="LoadoutSelect.MapIdLine" xml:space="preserve">
-  <value>MAP ID {ID}</value>
+  <value>CHART ID {ID}</value>
   <comment>MAP ID {ID}</comment>
 </data>
 <data name="LoadoutSelect.PhasePreparation" xml:space="preserve">
@@ -7232,7 +7232,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>SERVER</comment>
 </data>
 <data name="AwaitingMap.MapLabel" xml:space="preserve">
-  <value>MAP</value>
+  <value>CHART</value>
   <comment>MAP</comment>
 </data>
 <data name="AwaitingMap.ModeLabel" xml:space="preserve">
@@ -8052,7 +8052,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>TILES CLEANED</comment>
 </data>
 <data name="EorScreen.StatCremations" xml:space="preserve">
-  <value>BODIES CREMATED</value>
+  <value>BODIES BURNED</value>
   <comment>BODIES CREMATED</comment>
 </data>
 <data name="EorScreen.StatCloseCallRevives" xml:space="preserve">
@@ -11824,11 +11824,11 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>Engineer</comment>
 </data>
 <data name="Def.Obj.Effect.Landmark.Corpsespawner.Hybrisa.Civilian.DisplayName" xml:space="preserve">
-  <value>Corpse - Civilian</value>
+  <value>Corpse - Landlubber</value>
   <comment>Corpse - Civilian</comment>
 </data>
 <data name="Def.Obj.Effect.Landmark.Corpsespawner.Hybrisa.CivilianOffice.DisplayName" xml:space="preserve">
-  <value>Corpse - Civilian - Office Worker</value>
+  <value>Corpse - Landlubber - Office Worker</value>
   <comment>Corpse - Civilian - Office Worker</comment>
 </data>
 <data name="Def.Obj.Effect.Landmark.Corpsespawner.Hybrisa.KellandMiner.DisplayName" xml:space="preserve">
@@ -11836,7 +11836,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>Corpse - KMCC - Miner</comment>
 </data>
 <data name="Def.Obj.Effect.Landmark.Corpsespawner.Hybrisa.MedicalDoctorCorpse.DisplayName" xml:space="preserve">
-  <value>Corpse - Civilian - Medical Doctor</value>
+  <value>Corpse - Landlubber - Medical Doctor</value>
   <comment>Corpse - Civilian - Medical Doctor</comment>
 </data>
 <data name="Def.Obj.Effect.Landmark.Corpsespawner.Hybrisa.NspaConstable.DisplayName" xml:space="preserve">
@@ -11844,23 +11844,23 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>Corpse - NSPA Constable</comment>
 </data>
 <data name="Def.Obj.Effect.Landmark.Corpsespawner.Hybrisa.PizzaGalaxy.DisplayName" xml:space="preserve">
-  <value>Corpse - Civilian - Pizza Galaxy Delivery Driver</value>
+  <value>Corpse - Landlubber - Pizza Galaxy Delivery Driver</value>
   <comment>Corpse - Civilian - Pizza Galaxy Delivery Driver</comment>
 </data>
 <data name="Def.Obj.Effect.Landmark.Corpsespawner.Hybrisa.Sanitation.DisplayName" xml:space="preserve">
-  <value>Corpse - Civilian - Material Reprocessing Technician</value>
+  <value>Corpse - Landlubber - Material Reprocessing Technician</value>
   <comment>Corpse - Civilian - Material Reprocessing Technician</comment>
 </data>
 <data name="Def.Obj.Effect.Landmark.Corpsespawner.Hybrisa.ScientistXenoarchaeologist.DisplayName" xml:space="preserve">
-  <value>Corpse - Civilian - Xenoarchaeologist</value>
+  <value>Corpse - Landlubber - Xenoarchaeologist</value>
   <comment>Corpse - Civilian - Xenoarchaeologist</comment>
 </data>
 <data name="Def.Obj.Effect.Landmark.Corpsespawner.Hybrisa.ScientistXenobiologist.DisplayName" xml:space="preserve">
-  <value>Corpse - Civilian - Xenobiologist</value>
+  <value>Corpse - Landlubber - Xenobiologist</value>
   <comment>Corpse - Civilian - Xenobiologist</comment>
 </data>
 <data name="Def.Obj.Effect.Landmark.Corpsespawner.Hybrisa.Weymart.DisplayName" xml:space="preserve">
-  <value>Corpse - Civilian - Weymart Employee</value>
+  <value>Corpse - Landlubber - Weymart Employee</value>
   <comment>Corpse - Civilian - Weymart Employee</comment>
 </data>
 <data name="Def.Obj.Effect.Landmark.Corpsespawner.HybrisaGoon.DisplayName" xml:space="preserve">
@@ -13740,7 +13740,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>Lasalle Bionational biohazard suit closet</comment>
 </data>
 <data name="Def.Obj.Structure.Closet.Bodybag.DisplayName" xml:space="preserve">
-  <value>body bag</value>
+  <value>shroud</value>
   <comment>body bag</comment>
 </data>
 <data name="Def.Obj.Structure.Closet.Bodybag.Verb.Toggle" xml:space="preserve">
@@ -13748,7 +13748,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>open</comment>
 </data>
 <data name="Def.Obj.Structure.Closet.Bodybag.Open.DisplayName" xml:space="preserve">
-  <value>body bag</value>
+  <value>shroud</value>
   <comment>body bag</comment>
 </data>
 <data name="Def.Obj.Structure.Closet.Bodybag.Open.Verb.Toggle" xml:space="preserve">
@@ -13756,7 +13756,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>close</comment>
 </data>
 <data name="Def.Obj.Structure.Closet.Bodybag.Occupied.DisplayName" xml:space="preserve">
-  <value>body bag</value>
+  <value>shroud</value>
   <comment>body bag</comment>
 </data>
 <data name="Def.Obj.Structure.Closet.Bodybag.Occupied.Verb.Toggle" xml:space="preserve">
@@ -14188,7 +14188,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>turn on</comment>
 </data>
 <data name="Def.Obj.Structure.Closet.Crate.Freezer.Rations.DisplayName" xml:space="preserve">
-  <value>Emergency Rations</value>
+  <value>Emergency Hardtack</value>
   <comment>Emergency Rations</comment>
 </data>
 <data name="Def.Obj.Structure.Closet.Crate.Freezer.Rations.Verb.Toggle" xml:space="preserve">
@@ -14196,7 +14196,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>turn off</comment>
 </data>
 <data name="Def.Obj.Structure.Closet.Crate.Freezer.Rations.Open.DisplayName" xml:space="preserve">
-  <value>Emergency Rations</value>
+  <value>Emergency Hardtack</value>
   <comment>Emergency Rations</comment>
 </data>
 <data name="Def.Obj.Structure.Closet.Crate.Freezer.Rations.Open.Verb.Toggle" xml:space="preserve">
@@ -14204,7 +14204,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>turn off</comment>
 </data>
 <data name="Def.Obj.Structure.Closet.Crate.Freezer.Rations.Unpowered.DisplayName" xml:space="preserve">
-  <value>Emergency Rations</value>
+  <value>Emergency Hardtack</value>
   <comment>Emergency Rations</comment>
 </data>
 <data name="Def.Obj.Structure.Closet.Crate.Freezer.Rations.Unpowered.Verb.Toggle" xml:space="preserve">
@@ -14212,7 +14212,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>turn on</comment>
 </data>
 <data name="Def.Obj.Structure.Closet.Crate.Freezer.Rations.Unpowered.Open.DisplayName" xml:space="preserve">
-  <value>Emergency Rations</value>
+  <value>Emergency Hardtack</value>
   <comment>Emergency Rations</comment>
 </data>
 <data name="Def.Obj.Structure.Closet.Crate.Freezer.Rations.Unpowered.Open.Verb.Toggle" xml:space="preserve">
@@ -15336,7 +15336,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>turn on</comment>
 </data>
 <data name="Def.Obj.Structure.Closet.SecureCloset.Freezer.Kitchen.DisplayName" xml:space="preserve">
-  <value>Kitchen Cabinet</value>
+  <value>Galley Cabinet</value>
   <comment>Kitchen Cabinet</comment>
 </data>
 <data name="Def.Obj.Structure.Closet.SecureCloset.Freezer.Kitchen.Verb.Toggle" xml:space="preserve">
@@ -15344,7 +15344,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>turn off</comment>
 </data>
 <data name="Def.Obj.Structure.Closet.SecureCloset.Freezer.Kitchen.Open.DisplayName" xml:space="preserve">
-  <value>Kitchen Cabinet</value>
+  <value>Galley Cabinet</value>
   <comment>Kitchen Cabinet</comment>
 </data>
 <data name="Def.Obj.Structure.Closet.SecureCloset.Freezer.Kitchen.Open.Verb.Toggle" xml:space="preserve">
@@ -15352,7 +15352,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>turn off</comment>
 </data>
 <data name="Def.Obj.Structure.Closet.SecureCloset.Freezer.Kitchen.Unpowered.DisplayName" xml:space="preserve">
-  <value>Kitchen Cabinet</value>
+  <value>Galley Cabinet</value>
   <comment>Kitchen Cabinet</comment>
 </data>
 <data name="Def.Obj.Structure.Closet.SecureCloset.Freezer.Kitchen.Unpowered.Verb.Toggle" xml:space="preserve">
@@ -15360,7 +15360,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>turn on</comment>
 </data>
 <data name="Def.Obj.Structure.Closet.SecureCloset.Freezer.Kitchen.Unpowered.Open.DisplayName" xml:space="preserve">
-  <value>Kitchen Cabinet</value>
+  <value>Galley Cabinet</value>
   <comment>Kitchen Cabinet</comment>
 </data>
 <data name="Def.Obj.Structure.Closet.SecureCloset.Freezer.Kitchen.Unpowered.Open.Verb.Toggle" xml:space="preserve">
@@ -27236,7 +27236,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>safe</comment>
 </data>
 <data name="Def.Obj.Structure.Safe.Floor.DisplayName" xml:space="preserve">
-  <value>floor safe</value>
+  <value>strongbox</value>
   <comment>floor safe</comment>
 </data>
 <data name="Def.Obj.Structure.ShipAmmo.Sentry.DisplayName" xml:space="preserve">
@@ -28008,7 +28008,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>sink</comment>
 </data>
 <data name="Def.Obj.Structure.Sink.Kitchen.DisplayName" xml:space="preserve">
-  <value>kitchen sink</value>
+  <value>galley sink</value>
   <comment>kitchen sink</comment>
 </data>
 <data name="Def.Obj.Structure.Stairs.DisplayName" xml:space="preserve">
@@ -28148,7 +28148,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>terminal</comment>
 </data>
 <data name="Def.Obj.Structure.Toilet.DisplayName" xml:space="preserve">
-  <value>toilet</value>
+  <value>head</value>
   <comment>toilet</comment>
 </data>
 <data name="Def.Obj.Structure.Transmitter.DisplayName" xml:space="preserve">
@@ -28204,7 +28204,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>window</comment>
 </data>
 <data name="Def.Obj.Structure.Window.Framed.Abyssal.Blue.Hull.DisplayName" xml:space="preserve">
-  <value>hull window</value>
+  <value>porthole</value>
   <comment>hull window</comment>
 </data>
 <data name="Def.Obj.Structure.Window.Framed.Abyssal.Blue.Reinforced.DisplayName" xml:space="preserve">
@@ -28220,7 +28220,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>cell window</comment>
 </data>
 <data name="Def.Obj.Structure.Window.Framed.Abyssal.Standard.Hull.DisplayName" xml:space="preserve">
-  <value>hull window</value>
+  <value>porthole</value>
   <comment>hull window</comment>
 </data>
 <data name="Def.Obj.Structure.Window.Framed.Abyssal.Standard.Reinforced.DisplayName" xml:space="preserve">
@@ -28232,19 +28232,19 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>reinforced window</comment>
 </data>
 <data name="Def.Obj.Structure.Window.Framed.Almayer.Aicore.Hull.DisplayName" xml:space="preserve">
-  <value>hull window</value>
+  <value>porthole</value>
   <comment>hull window</comment>
 </data>
 <data name="Def.Obj.Structure.Window.Framed.Almayer.Aicore.Hull.Black.HijackBustable.DisplayName" xml:space="preserve">
-  <value>hull window</value>
+  <value>porthole</value>
   <comment>hull window</comment>
 </data>
 <data name="Def.Obj.Structure.Window.Framed.Almayer.Hull.DisplayName" xml:space="preserve">
-  <value>hull window</value>
+  <value>porthole</value>
   <comment>hull window</comment>
 </data>
 <data name="Def.Obj.Structure.Window.Framed.Almayer.Hull.HijackBustable.DisplayName" xml:space="preserve">
-  <value>hull window</value>
+  <value>porthole</value>
   <comment>hull window</comment>
 </data>
 <data name="Def.Obj.Structure.Window.Framed.Almayer.White.DisplayName" xml:space="preserve">
@@ -28288,7 +28288,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>window</comment>
 </data>
 <data name="Def.Obj.Structure.Window.Framed.Hybrisa.Colony.Engineering.Hull.DisplayName" xml:space="preserve">
-  <value>hull window</value>
+  <value>porthole</value>
   <comment>hull window</comment>
 </data>
 <data name="Def.Obj.Structure.Window.Framed.Hybrisa.Colony.Engineering.Reinforced.DisplayName" xml:space="preserve">
@@ -28304,7 +28304,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>reinforced window</comment>
 </data>
 <data name="Def.Obj.Structure.Window.Framed.Hybrisa.Colony.Hull.DisplayName" xml:space="preserve">
-  <value>hull window</value>
+  <value>porthole</value>
   <comment>hull window</comment>
 </data>
 <data name="Def.Obj.Structure.Window.Framed.Hybrisa.Colony.Office.DisplayName" xml:space="preserve">
@@ -32996,7 +32996,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>pick up</comment>
 </data>
 <data name="Def.Obj.Item.Bodybag.DisplayName" xml:space="preserve">
-  <value>body bag</value>
+  <value>shroud</value>
   <comment>body bag</comment>
 </data>
 <data name="Def.Obj.Item.Bodybag.Verb.PickUp" xml:space="preserve">
@@ -48024,7 +48024,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>pick up</comment>
 </data>
 <data name="Def.Obj.Item.ReagentContainer.Glass.Bucket.Mopbucket.DisplayName" xml:space="preserve">
-  <value>mop bucket</value>
+  <value>swab bucket</value>
   <comment>mop bucket</comment>
 </data>
 <data name="Def.Obj.Item.ReagentContainer.Glass.Bucket.Mopbucket.Verb.PickUp" xml:space="preserve">
@@ -50984,7 +50984,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>pick up</comment>
 </data>
 <data name="Def.Obj.Item.Storage.Box.Bodybags.DisplayName" xml:space="preserve">
-  <value>body bags box</value>
+  <value>shroud box</value>
   <comment>body bags box</comment>
 </data>
 <data name="Def.Obj.Item.Storage.Box.Bodybags.Verb.PickUp" xml:space="preserve">
@@ -50992,7 +50992,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>pick up</comment>
 </data>
 <data name="Def.Obj.Item.Storage.Box.Bodybags.Open.DisplayName" xml:space="preserve">
-  <value>body bags box</value>
+  <value>shroud box</value>
   <comment>body bags box</comment>
 </data>
 <data name="Def.Obj.Item.Storage.Box.Bodybags.Open.Verb.PickUp" xml:space="preserve">
@@ -56620,7 +56620,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>pick up</comment>
 </data>
 <data name="Def.Obj.Item.Tool.Mop.DisplayName" xml:space="preserve">
-  <value>mop</value>
+  <value>swab</value>
   <comment>mop</comment>
 </data>
 <data name="Def.Obj.Item.Tool.Mop.Verb.PickUp" xml:space="preserve">
@@ -72848,7 +72848,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>Knows how to work a deal. Cheaper prices at the W-Y ATM.</comment>
 </data>
 <data name="Trait.PizzaChef.Name" xml:space="preserve">
-  <value>Pizza Chef</value>
+  <value>Pizza Cook</value>
   <comment>Pizza Chef</comment>
 </data>
 <data name="Trait.PizzaChef.Flavor" xml:space="preserve">
