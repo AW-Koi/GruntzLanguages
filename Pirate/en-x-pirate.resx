@@ -72748,7 +72748,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>Medical Staff</comment>
 </data>
 <data name="Trait.MedicalStaff.Flavor" xml:space="preserve">
-  <value>Paid fer every repair that counts.</value>
+  <value>Paid by the stitch.</value>
   <comment>Paid for every repair that counts.</comment>
 </data>
 <data name="Trait.Contractor.Name" xml:space="preserve">
