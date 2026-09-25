@@ -156,11 +156,11 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>CANCEL</comment>
 </data>
 <data name="MainMenu.ConnectLabel" xml:space="preserve">
-  <value>COME ABOARD</value>
+  <value>ABOARD</value>
   <comment>CONNECT</comment>
 </data>
 <data name="MainMenu.JoinRefusalLine" xml:space="preserve">
-  <value>HAIL REFUSED // CHECK YER HEADING</value>
+  <value>HAIL REFUSED // CHECK HEADING</value>
   <comment>LINK REFUSED // CHECK ADDRESS</comment>
 </data>
 <data name="MainMenu.SurveyRefusalLine" xml:space="preserve">
@@ -184,7 +184,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>~NO SURVEY RECORD</comment>
 </data>
 <data name="MainMenu.MainSubtitle" xml:space="preserve">
-  <value>THE QUARTERDECK</value>
+  <value>QUARTERDECK</value>
   <comment>MAIN MENU</comment>
 </data>
 <data name="MainMenu.SystemSubtitle" xml:space="preserve">
@@ -200,7 +200,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>DISCONNECT</comment>
 </data>
 <data name="MainMenu.DisconnectLine" xml:space="preserve">
-  <value>LEAVE THE SERVER AN' RETURN T' THE QUARTERDECK?</value>
+  <value>LEAVE THE SERVER FER THE QUARTERDECK?</value>
   <comment>LEAVE THE SERVER AND RETURN TO THE MENU?</comment>
 </data>
 <data name="MainMenu.DisconnectConfirmLabel" xml:space="preserve">
@@ -212,7 +212,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>QUIT GAME</comment>
 </data>
 <data name="MainMenu.QuitLine" xml:space="preserve">
-  <value>SCUTTLE THE SHIP AN' EXIT T' DESKTOP?</value>
+  <value>SCUTTLE SHIP AN' EXIT T' DESKTOP?</value>
   <comment>POWER DOWN AND EXIT TO DESKTOP?</comment>
 </data>
 <data name="MainMenu.QuitConfirmLabel" xml:space="preserve">
@@ -240,15 +240,15 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>CONTENT MISMATCH</comment>
 </data>
 <data name="MainMenu.ContentMismatchLine" xml:space="preserve">
-  <value>YER GAME CONTENT DIFFERS FROM THE SERVER'S. CHECK FER AN UPDATE OR THROW MODIFIED CONTENT OVERBOARD.</value>
+  <value>YER GAME CONTENT DIFFERS FROM THE SERVER. CHECK FER AN UPDATE OR DITCH MODDED CONTENT.</value>
   <comment>YOUR GAME CONTENT DIFFERS FROM THE SERVER. CHECK FOR AN UPDATE OR REMOVE MODIFIED CONTENT.</comment>
 </data>
 <data name="MainMenu.BehindLine" xml:space="preserve">
-  <value>YER GAME BE LAGGIN' IN THE SERVER'S WAKE. UPDATE THE GAME, THEN JOIN AGAIN.</value>
+  <value>YER GAME BE IN THE SERVER'S WAKE. UPDATE THE GAME, THEN JOIN AGAIN.</value>
   <comment>YOUR GAME IS BEHIND THE SERVER. UPDATE THE GAME, THEN JOIN AGAIN.</comment>
 </data>
 <data name="MainMenu.AheadLine" xml:space="preserve">
-  <value>YER GAME BE SAILIN' AHEAD O' THE SERVER. WAIT FER THE SERVER T' RESTART WITH THE UPDATE, THEN JOIN AGAIN.</value>
+  <value>YER GAME BE AHEAD O' THE SERVER. WAIT FER THE SERVER T' RESTART WITH THE UPDATE, THEN JOIN AGAIN.</value>
   <comment>YOUR GAME IS AHEAD OF THE SERVER. WAIT FOR THE SERVER TO RESTART WITH THE UPDATE, THEN JOIN AGAIN.</comment>
 </data>
 <data name="MainMenu.CloseLabel" xml:space="preserve">
@@ -348,7 +348,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>SETTINGS // DISPLAY / AUDIO / CONTROLS</comment>
 </data>
 <data name="MainMenu.Row.JoinGame.Status" xml:space="preserve">
-  <value>JOIN A CREW // AWAITIN' A HEADING</value>
+  <value>JOIN A CREW // AWAITIN' HEADING</value>
   <comment>JOIN GAME // AWAITING ADDRESS</comment>
 </data>
 <data name="MainMenu.Row.QuitGame.Status" xml:space="preserve">
@@ -356,7 +356,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>QUIT GAME // POWERING DOWN</comment>
 </data>
 <data name="MainMenu.SystemRow.Resume.Label" xml:space="preserve">
-  <value>BACK T' IT</value>
+  <value>SAIL ON</value>
   <comment>RESUME</comment>
 </data>
 <data name="MainMenu.SystemRow.Settings.Label" xml:space="preserve">
@@ -1420,11 +1420,11 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>sweep</comment>
 </data>
 <data name="HoverVerbLabels.AnchorAnchor" xml:space="preserve">
-  <value>drop anchor</value>
+  <value>moor</value>
   <comment>anchor</comment>
 </data>
 <data name="HoverVerbLabels.AnchorUnanchor" xml:space="preserve">
-  <value>weigh anchor</value>
+  <value>unmoor</value>
   <comment>unanchor</comment>
 </data>
 <data name="HoverVerbLabels.FuelCellInsert" xml:space="preserve">
@@ -2364,7 +2364,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>In pain</comment>
 </data>
 <data name="Moodlet.Flavor.Pain.Moderate" xml:space="preserve">
-  <value>Hurtin' something fierce</value>
+  <value>Hurtin' fierce</value>
   <comment>In serious pain</comment>
 </data>
 <data name="Moodlet.Flavor.Pain.Severe" xml:space="preserve">
@@ -2372,7 +2372,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>In agony</comment>
 </data>
 <data name="Moodlet.Flavor.Thirst.Thirsty" xml:space="preserve">
-  <value>Throat's dry</value>
+  <value>Dry throat</value>
   <comment>Thirsty</comment>
 </data>
 <data name="Moodlet.Flavor.Thirst.Parched" xml:space="preserve">
@@ -2384,11 +2384,11 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>Dehydrated</comment>
 </data>
 <data name="Moodlet.Flavor.Stuffed" xml:space="preserve">
-  <value>Stuffed t' the gunwales</value>
+  <value>Fit t' burst</value>
   <comment>Completely full</comment>
 </data>
 <data name="Moodlet.Flavor.Quenched" xml:space="preserve">
-  <value>Whistle well wetted</value>
+  <value>Whistle wetted</value>
   <comment>Fully hydrated</comment>
 </data>
 <data name="Moodlet.Flavor.Bleeding" xml:space="preserve">
@@ -2424,7 +2424,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>Buckled in</comment>
 </data>
 <data name="Moodlet.Flavor.Burning.Engulfed" xml:space="preserve">
-  <value>Burnin' like a fireship</value>
+  <value>Ablaze stem t' stern</value>
   <comment>Engulfed in flames</comment>
 </data>
 <data name="Moodlet.Flavor.Burning.OnFire" xml:space="preserve">
@@ -2448,7 +2448,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>Could use a bite</comment>
 </data>
 <data name="Moodlet.Flavor.Hunger.Hungry" xml:space="preserve">
-  <value>Belly be grumblin'</value>
+  <value>Belly grumblin'</value>
   <comment>Feeling hungry</comment>
 </data>
 <data name="Moodlet.Flavor.Hunger.Starving" xml:space="preserve">
@@ -2540,11 +2540,11 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>Wading, forced to a heavy walking pace</comment>
 </data>
 <data name="Moodlet.Flavor.Searched" xml:space="preserve">
-  <value>Some scallywag be goin' through yer gear</value>
+  <value>A scallywag be goin' through yer gear</value>
   <comment>Someone is going through your gear</comment>
 </data>
 <data name="Moodlet.Flavor.Dead" xml:space="preserve">
-  <value>Davy Jones won't give ye back</value>
+  <value>No haulin' ye back</value>
   <comment>Cannot be revived</comment>
 </data>
 <data name="Moodlet.Flavor.Prone" xml:space="preserve">
@@ -2832,7 +2832,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>Zombies cannot see you</comment>
 </data>
 <data name="Moodlet.Phrase.HarderForZombiesToSpot" xml:space="preserve">
-  <value>Harder fer the Drowned t' spot</value>
+  <value>Harder fer the Drowned t' see</value>
   <comment>Harder for zombies to spot</comment>
 </data>
 <data name="Moodlet.Phrase.WhatLivesHereCanStillSeeYou" xml:space="preserve">
@@ -3172,7 +3172,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment> Explosion damage</comment>
 </data>
 <data name="Moodlet.Unit.DamageToXenos" xml:space="preserve">
-  <value> Damage t' sea devils</value>
+  <value> Damage t' devils</value>
   <comment> Damage to xenos</comment>
 </data>
 <data name="Moodlet.Unit.FireDelay" xml:space="preserve">
@@ -3508,7 +3508,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>toggle</comment>
 </data>
 <data name="EquipRequestUi.FallbackActor" xml:space="preserve">
-  <value>Some scallywag</value>
+  <value>Some swab</value>
   <comment>Someone</comment>
 </data>
 <data name="EquipRequestUi.Title" xml:space="preserve">
@@ -3940,7 +3940,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment> Charge deploy time</comment>
 </data>
 <data name="TraitChips.Unit.AtmPrices" xml:space="preserve">
-  <value> Coin coffer prices</value>
+  <value> Coffer prices</value>
   <comment> ATM prices</comment>
 </data>
 <data name="TraitChips.Unit.DollarsPerTileCleaned" xml:space="preserve">
@@ -6136,7 +6136,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>HIT THE VENDOR WITH A SPENT BOTTLE TO REFILL IT</comment>
 </data>
 <data name="Vendor.PaymentHint" xml:space="preserve">
-  <value>DOUBLOONS TAKEN ON VEND - DEPOSIT COIN AT ANY W-Y COIN COFFER</value>
+  <value>COIN TAKEN ON VEND - DEPOSIT COIN AT ANY W-Y COFFER</value>
   <comment>FUNDS DEBIT ON VEND - DEPOSIT CASH AT ANY W-Y ATM</comment>
 </data>
 <data name="Vendor.EmptyLabel" xml:space="preserve">
@@ -6544,7 +6544,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>TILL</comment>
 </data>
 <data name="Atm.Title" xml:space="preserve">
-  <value>Weyland-Yutani Coin Coffer</value>
+  <value>Weyland-Yutani Coffer</value>
   <comment>Weyland-Yutani ATM</comment>
 </data>
 <data name="Atm.HeaderLine" xml:space="preserve">
@@ -6596,7 +6596,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>INSUFFICIENT FUNDS</comment>
 </data>
 <data name="Atm.AuthorizingLabel" xml:space="preserve">
-  <value>CHECKIN' YER COIN...</value>
+  <value>CHECKIN' COIN...</value>
   <comment>AUTHORIZING...</comment>
 </data>
 <data name="Atm.ConfirmedLine" xml:space="preserve">
@@ -6604,7 +6604,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>SUPPLY DROP CONFIRMED</comment>
 </data>
 <data name="Atm.InboundLine" xml:space="preserve">
-  <value>POD INBOUND // STAND CLEAR O' THE DROP ZONE</value>
+  <value>POD INBOUND // STAND CLEAR O' DROP ZONE</value>
   <comment>POD INBOUND // STAND CLEAR OF DROP ZONE</comment>
 </data>
 <data name="Atm.DebitedSuffix" xml:space="preserve">
@@ -6628,7 +6628,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>WITHDRAW</comment>
 </data>
 <data name="Atm.WithdrawTitle" xml:space="preserve">
-  <value>WITHDRAW DOUBLOONS</value>
+  <value>DRAW DOUBLOONS</value>
   <comment>WITHDRAW FUNDS</comment>
 </data>
 <data name="Atm.OkayLabel" xml:space="preserve">
@@ -6712,11 +6712,11 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>DISCARD CHANGES</comment>
 </data>
 <data name="Settings.ConfirmBody1" xml:space="preserve">
-  <value>YER RIGGIN' HAS CHANGES NOT YET HOISTED.</value>
+  <value>RIGGIN' CHANGES NOT YET HOISTED.</value>
   <comment>SETTINGS HAVE UNAPPLIED CHANGES.</comment>
 </data>
 <data name="Settings.ConfirmBody2" xml:space="preserve">
-  <value>THROW 'EM OVERBOARD?</value>
+  <value>SCUTTLE THEM?</value>
   <comment>DISCARD THEM?</comment>
 </data>
 <data name="Settings.KeepEditingLabel" xml:space="preserve">
@@ -6908,7 +6908,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>ENTER A FIRST AND LAST NAME</comment>
 </data>
 <data name="CharacterSetup.RandomizeLabel" xml:space="preserve">
-  <value>ROLL THE DICE</value>
+  <value>ROLL DICE</value>
   <comment>RANDOMIZE</comment>
 </data>
 <data name="CharacterSetup.BodyLabel" xml:space="preserve">
@@ -7076,7 +7076,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>GHOST</comment>
 </data>
 <data name="LoadoutSelect.ObserveLabel" xml:space="preserve">
-  <value>KEEP LOOKOUT</value>
+  <value>LOOKOUT</value>
   <comment>OBSERVE</comment>
 </data>
 <data name="LoadoutSelect.ObserveConfirmLabel" xml:space="preserve">
@@ -7108,7 +7108,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>THE ROUND</comment>
 </data>
 <data name="LoadoutSelect.RandomSpawnName" xml:space="preserve">
-  <value>Where the Wind Takes Ye</value>
+  <value>Any Port</value>
   <comment>Random</comment>
 </data>
 <data name="LoadoutSelect.RejectNoSpawnPoint" xml:space="preserve">
@@ -7140,7 +7140,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>Suppress this warning</comment>
 </data>
 <data name="PowerPlan.Body" xml:space="preserve">
-  <value>Windows be usin' a power plan that favours efficiency, which can make yer frames stutter. The game sails best on the High Performance power plan, found in Windows power settings.</value>
+  <value>Windows be usin' a power plan that favours efficiency, which can cause frame stutter. The game sails best on the High Performance power plan, found in Windows power settings.</value>
   <comment>Windows is using a power plan that favors efficiency, which can cause frame stutter. The game runs best on the High Performance power plan, found in Windows power settings.</comment>
 </data>
 <data name="TrackerRules.Strong" xml:space="preserve">
@@ -7212,7 +7212,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>MEDICAL</comment>
 </data>
 <data name="SpawnIntro.BranchMilitary" xml:space="preserve">
-  <value>FIGHTIN' HANDS</value>
+  <value>MEN O' WAR</value>
   <comment>MILITARY</comment>
 </data>
 <data name="AwaitingMap.Header" xml:space="preserve">
@@ -7336,7 +7336,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>MEDICAL</comment>
 </data>
 <data name="CrtClassListPanel.BranchMilitary" xml:space="preserve">
-  <value>FIGHTIN' HANDS</value>
+  <value>MEN O' WAR</value>
   <comment>MILITARY</comment>
 </data>
 <data name="CrtChatPanel.Title" xml:space="preserve">
@@ -7364,11 +7364,11 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>HOLD ON AND A RESCUE MAY YET CUT YOU DOWN, OR GIVE UP NOW AND LET GO OF THE BODY.</comment>
 </data>
 <data name="NestGiveUp.WaitLabel" xml:space="preserve">
-  <value>HOLD FAST</value>
+  <value>AVAST</value>
   <comment>WAIT</comment>
 </data>
 <data name="NestGiveUp.GiveUpLabel" xml:space="preserve">
-  <value>STRIKE YER COLOURS</value>
+  <value>YIELD</value>
   <comment>GIVE UP</comment>
 </data>
 <data name="NestGiveUp.ConfirmLabel" xml:space="preserve">
@@ -7380,7 +7380,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>NIGHT DEPLOYMENT</comment>
 </data>
 <data name="NightDeploy.MainCopy" xml:space="preserve">
-  <value>NIGHT HAS FALLEN ON THE COLONY AN' THE SEA DEVILS BE HUNTIN'.</value>
+  <value>IT BE NIGHT ON THE COLONY AN' THE SEA DEVILS BE HUNTIN'.</value>
   <comment>IT IS NIGHT ON THE COLONY AND THE XENOMORPHS ARE HUNTING.</comment>
 </data>
 <data name="NightDeploy.SubCopy" xml:space="preserve">
@@ -7428,7 +7428,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>EMERGENCY RESPONSE TEAM</comment>
 </data>
 <data name="ErtDeny.Body" xml:space="preserve">
-  <value>YE CANNOT CALL A RELIEF CREW DURIN' THIS PHASE</value>
+  <value>YE CAN'T CALL A RELIEF CREW IN THIS PHASE</value>
   <comment>YOU CANNOT CALL AN ERT DURING THIS PHASE</comment>
 </data>
 <data name="ErtDeny.ContinueLabel" xml:space="preserve">
@@ -7444,7 +7444,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>CLOSE</comment>
 </data>
 <data name="Announcement.WaitLabel" xml:space="preserve">
-  <value>HOLD FAST // {SECONDS}s</value>
+  <value>AVAST // {SECONDS}s</value>
   <comment>WAIT // {SECONDS}s</comment>
 </data>
 <data name="LabelPopup.Title" xml:space="preserve">
@@ -7520,7 +7520,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>EXTRACTION // ABOVE // {DISTANCE} TILES</comment>
 </data>
 <data name="RoundHud.ExtractionBelowLine" xml:space="preserve">
-  <value>LONGBOAT // BELOW DECKS // {DISTANCE} TILES</value>
+  <value>LONGBOAT // BELOW // {DISTANCE} TILES</value>
   <comment>EXTRACTION // BELOW // {DISTANCE} TILES</comment>
 </data>
 <data name="RoundHud.ExtractedLine" xml:space="preserve">
@@ -7544,7 +7544,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>PHASE 2 // WAVE ASSAULT</comment>
 </data>
 <data name="RoundHud.PhaseExtraction" xml:space="preserve">
-  <value>PHASE 3 // TO THE LONGBOAT</value>
+  <value>PHASE 3 // THE LONGBOAT</value>
   <comment>PHASE 3 // EXTRACTION</comment>
 </data>
 <data name="RoundHud.PhaseNextRound" xml:space="preserve">
@@ -7560,7 +7560,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>NOT FOLLOWING</comment>
 </data>
 <data name="DeadOverlay.DeadHeading" xml:space="preserve">
-  <value>DAVY JONES HAS YE</value>
+  <value>JONES HAS YE</value>
   <comment>YOU ARE DEAD</comment>
 </data>
 <data name="DeadOverlay.AcquiringPlaceholder" xml:space="preserve">
@@ -7588,7 +7588,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>RETURN</comment>
 </data>
 <data name="DeadOverlay.ObserveLabel" xml:space="preserve">
-  <value>KEEP LOOKOUT</value>
+  <value>LOOKOUT</value>
   <comment>OBSERVE</comment>
 </data>
 <data name="DeadOverlay.PrevLabel" xml:space="preserve">
@@ -7604,11 +7604,11 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>RESPAWNS DISABLED</comment>
 </data>
 <data name="DeadOverlay.RespawnLabel" xml:space="preserve">
-  <value>DEFY DAVY JONES</value>
+  <value>DEFY JONES</value>
   <comment>RESPAWN</comment>
 </data>
 <data name="DeadOverlay.RespawnCountingLine" xml:space="preserve">
-  <value>YE MAY DEFY DAVY JONES IN {SECONDS}S</value>
+  <value>DEFY JONES {SECONDS}S</value>
   <comment>RESPAWN {SECONDS}S</comment>
 </data>
 <data name="DeadOverlay.GhostTitle" xml:space="preserve">
@@ -7780,7 +7780,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>SPINNING...</comment>
 </data>
 <data name="SlotMachine.NoLuckLine" xml:space="preserve">
-  <value>NO LUCK, MATEY</value>
+  <value>NAY LUCK</value>
   <comment>NO LUCK</comment>
 </data>
 <data name="SlotMachine.InsufficientLine" xml:space="preserve">
@@ -7792,7 +7792,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>PULL ARM // {AMOUNT}</comment>
 </data>
 <data name="SlotMachine.CashOutLabel" xml:space="preserve">
-  <value>TAKE YER COIN</value>
+  <value>TAKE COIN</value>
   <comment>CASH OUT</comment>
 </data>
 <data name="SlotMachine.PaytableHeadLine" xml:space="preserve">
@@ -7832,11 +7832,11 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>JACKPOT! // DISPENSING WINNINGS{AMOUNT}</comment>
 </data>
 <data name="SlotMachine.WinnerCreditedLine" xml:space="preserve">
-  <value>WINNER // {AMOUNT} IN YER PURSE</value>
+  <value>WINNER // {AMOUNT} PURSED</value>
   <comment>WINNER // {AMOUNT} CREDITED</comment>
 </data>
 <data name="SlotMachine.BigWinnerCreditedLine" xml:space="preserve">
-  <value>BIG WINNER // {AMOUNT} IN YER PURSE</value>
+  <value>BIG WINNER // {AMOUNT} PURSED</value>
   <comment>BIG WINNER // {AMOUNT} CREDITED</comment>
 </data>
 <data name="SlotMachine.BonusPrizeLine" xml:space="preserve">
@@ -7880,7 +7880,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>THE ANOMALY WAS CONTAINED // NOBODY EXTRACTED</comment>
 </data>
 <data name="EorScreen.ExtractedVerdictLine" xml:space="preserve">
-  <value>{EXTRACTED} O' {TOTAL} SAILORS ESCAPED // BIGGER SHARES FER THE LIVIN'</value>
+  <value>{EXTRACTED} O' {TOTAL} SAILORS ESCAPED // MORE SHARES FER THE LIVIN'</value>
   <comment>{EXTRACTED} OF {TOTAL} OPERATORS EXTRACTED // THE COLONY REMEMBERS</comment>
 </data>
 <data name="EorScreen.MetaLine" xml:space="preserve">
@@ -7916,7 +7916,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>EXTRACTED // {COUNT}</comment>
 </data>
 <data name="EorScreen.LostSectionLine" xml:space="preserve">
-  <value>MAROONED // {COUNT}</value>
+  <value>ADRIFT // {COUNT}</value>
   <comment>LOST // {COUNT}</comment>
 </data>
 <data name="EorScreen.FallenSectionLine" xml:space="preserve">
@@ -7928,7 +7928,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>OBSERVING // {COUNT}</comment>
 </data>
 <data name="EorScreen.ObservingDetail" xml:space="preserve">
-  <value>NEVER WENT ASHORE</value>
+  <value>NEVER ASHORE</value>
   <comment>NO DEPLOYMENT</comment>
 </data>
 <data name="EorScreen.ObservingStatus" xml:space="preserve">
@@ -7960,7 +7960,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>LAST WORDS</comment>
 </data>
 <data name="EorScreen.NoLastWordsText" xml:space="preserve">
-  <value>DEAD MEN TELL NO TALES</value>
+  <value>NO TALES TOLD</value>
   <comment>NONE RECORDED</comment>
 </data>
 <data name="EorScreen.NextModeLine" xml:space="preserve">
@@ -8004,11 +8004,11 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>ZOMBIES KILLED</comment>
 </data>
 <data name="EorScreen.StatFriendlyFireDealt" xml:space="preserve">
-  <value>SHOTS INTO YE' OWN CREW</value>
+  <value>SHOTS INTO OWN CREW</value>
   <comment>FRIENDLY FIRE DEALT</comment>
 </data>
 <data name="EorScreen.StatFriendlyFireTaken" xml:space="preserve">
-  <value>SHOTS FROM YE' OWN CREW</value>
+  <value>SHOTS FROM OWN CREW</value>
   <comment>FRIENDLY FIRE TAKEN</comment>
 </data>
 <data name="EorScreen.StatMeleeDealt" xml:space="preserve">
@@ -8028,7 +8028,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>DISTANCE TRAVELLED</comment>
 </data>
 <data name="EorScreen.StatMoneyRaised" xml:space="preserve">
-  <value>DOUBLOONS RAISED</value>
+  <value>DOUBLOONS MADE</value>
   <comment>MONEY RAISED</comment>
 </data>
 <data name="EorScreen.StatRoundsFired" xml:space="preserve">
@@ -8080,7 +8080,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>TIME IN A CLOSET</comment>
 </data>
 <data name="EorScreen.StatLeglessTiles" xml:space="preserve">
-  <value>DISTANCE CRAWLED WITHOUT A PEG</value>
+  <value>DISTANCE CRAWLED PEGLESS</value>
   <comment>DISTANCE CRAWLED LEGLESS</comment>
 </data>
 <data name="EorScreen.StatDraggedDownedTiles" xml:space="preserve">
@@ -8100,7 +8100,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>EXTRACTED</comment>
 </data>
 <data name="EorScreen.StatusLost" xml:space="preserve">
-  <value>MAROONED</value>
+  <value>ADRIFT</value>
   <comment>LOST</comment>
 </data>
 <data name="EorScreen.StatusDied" xml:space="preserve">
@@ -8136,15 +8136,15 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>DELIMBED</comment>
 </data>
 <data name="EorScreen.CauseBurst" xml:space="preserve">
-  <value>HATCHED A DEVIL</value>
+  <value>HATCHED</value>
   <comment>BURSTED</comment>
 </data>
 <data name="EorScreen.CauseOverdose" xml:space="preserve">
-  <value>DRANK TOO DEEP</value>
+  <value>OVERDRANK</value>
   <comment>OVERDOSE</comment>
 </data>
 <data name="EorScreen.CauseFell" xml:space="preserve">
-  <value>WALKED THE PLANK</value>
+  <value>PLUNGED</value>
   <comment>FELL</comment>
 </data>
 <data name="EorScreen.CauseIrradiated" xml:space="preserve">
@@ -8156,7 +8156,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>UNMADE</comment>
 </data>
 <data name="EorScreen.CauseOther" xml:space="preserve">
-  <value>DAVY JONES KNOWS</value>
+  <value>OTHER</value>
   <comment>OTHER</comment>
 </data>
 <data name="CrtWidgets.On" xml:space="preserve">
@@ -8188,7 +8188,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>COLONY TERMLINK UPLINK AGENT</comment>
 </data>
 <data name="Loading.CancelLine" xml:space="preserve">
-  <value>ESC // BELAY THE HAIL</value>
+  <value>ESC // BELAY HAIL</value>
   <comment>ESC // ABORT LINK</comment>
 </data>
 <data name="Loading.InitialState" xml:space="preserve">
@@ -8200,7 +8200,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>VRAM {USAGE} / {BUDGET} MB</comment>
 </data>
 <data name="Loading.StateLoadingMap" xml:space="preserve">
-  <value>Unrollin' the charts</value>
+  <value>Readin' charts</value>
   <comment>Loading Map</comment>
 </data>
 <data name="Loading.StateConnecting" xml:space="preserve">
@@ -8208,7 +8208,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>Connecting</comment>
 </data>
 <data name="Loading.StateWaitingForServer" xml:space="preserve">
-  <value>Waitin' fer the server</value>
+  <value>Waitin' fer server</value>
   <comment>Waiting for server</comment>
 </data>
 <data name="Loading.StateEnteringWorld" xml:space="preserve">
@@ -10524,7 +10524,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>move to</comment>
 </data>
 <data name="Def.Character.Human.Zombie.DisplayName" xml:space="preserve">
-  <value>Drowned One</value>
+  <value>Drowned</value>
   <comment>Zombie</comment>
 </data>
 <data name="Def.Character.Human.Zombie.Verb.Teleport" xml:space="preserve">
@@ -10536,7 +10536,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>move to</comment>
 </data>
 <data name="Def.Character.Human.Zombie.Wave.DisplayName" xml:space="preserve">
-  <value>Drowned One</value>
+  <value>Drowned</value>
   <comment>Zombie</comment>
 </data>
 <data name="Def.Character.Human.Zombie.Wave.Verb.Teleport" xml:space="preserve">
@@ -10560,15 +10560,15 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>facehugger</comment>
 </data>
 <data name="Def.Character.Xeno.Larva.DisplayName" xml:space="preserve">
-  <value>devil spawn</value>
+  <value>devilkin</value>
   <comment>larva</comment>
 </data>
 <data name="Def.Character.Xeno.Larva.Lurking.DisplayName" xml:space="preserve">
-  <value>devil spawn</value>
+  <value>devilkin</value>
   <comment>larva</comment>
 </data>
 <data name="Def.Character.Xeno.Larva.InVent.DisplayName" xml:space="preserve">
-  <value>devil spawn</value>
+  <value>devilkin</value>
   <comment>larva</comment>
 </data>
 <data name="Def.Character.Xeno.Drone.DisplayName" xml:space="preserve">
@@ -10580,11 +10580,11 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>drone</comment>
 </data>
 <data name="Def.Character.Xeno.Queen.DisplayName" xml:space="preserve">
-  <value>devil queen</value>
+  <value>queen</value>
   <comment>queen</comment>
 </data>
 <data name="Def.Character.Xeno.Queen.InVent.DisplayName" xml:space="preserve">
-  <value>devil queen</value>
+  <value>queen</value>
   <comment>queen</comment>
 </data>
 <data name="Def.Character.Xeno.Drone.RoyalGuard.DisplayName" xml:space="preserve">
@@ -10620,7 +10620,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>xeno tunnel</comment>
 </data>
 <data name="Def.Xeno.Hive.Core.DisplayName" xml:space="preserve">
-  <value>heart o' the lair</value>
+  <value>lair heart</value>
   <comment>hive core</comment>
 </data>
 <data name="Def.Xeno.Hive.Weeds.DisplayName" xml:space="preserve">
@@ -10632,27 +10632,27 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>dead facehugger</comment>
 </data>
 <data name="Def.Xeno.Embryo.Stage1.DisplayName" xml:space="preserve">
-  <value>devil spawn</value>
+  <value>devilkin</value>
   <comment>embryo</comment>
 </data>
 <data name="Def.Xeno.Embryo.Stage2.DisplayName" xml:space="preserve">
-  <value>devil spawn</value>
+  <value>devilkin</value>
   <comment>embryo</comment>
 </data>
 <data name="Def.Xeno.Embryo.Stage3.DisplayName" xml:space="preserve">
-  <value>devil spawn</value>
+  <value>devilkin</value>
   <comment>embryo</comment>
 </data>
 <data name="Def.Xeno.Embryo.Stage4.DisplayName" xml:space="preserve">
-  <value>devil spawn</value>
+  <value>devilkin</value>
   <comment>embryo</comment>
 </data>
 <data name="Def.Xeno.Embryo.Stage5.DisplayName" xml:space="preserve">
-  <value>devil spawn</value>
+  <value>devilkin</value>
   <comment>embryo</comment>
 </data>
 <data name="Def.Xeno.Embryo.Removed.DisplayName" xml:space="preserve">
-  <value>extracted devil spawn</value>
+  <value>extracted devilkin</value>
   <comment>extracted embryo</comment>
 </data>
 <data name="Def.Character.Anomaly.OldOne.DisplayName" xml:space="preserve">
@@ -28576,7 +28576,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>cargo train trolley</comment>
 </data>
 <data name="Def.Obj.Item.AlienEmbryo.DisplayName" xml:space="preserve">
-  <value>devil spawn</value>
+  <value>devilkin</value>
   <comment>alien embryo</comment>
 </data>
 <data name="Def.Obj.Item.AlienEmbryo.Verb.PickUp" xml:space="preserve">
@@ -36212,7 +36212,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>flip down</comment>
 </data>
 <data name="Def.Obj.Item.Clothing.Head.Xenos.DisplayName" xml:space="preserve">
-  <value>sea devil costume helmet</value>
+  <value>devil costume helmet</value>
   <comment>alien costume helmet</comment>
 </data>
 <data name="Def.Obj.Item.Clothing.Head.Xenos.Verb.PickUp" xml:space="preserve">
@@ -40764,7 +40764,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>pick up</comment>
 </data>
 <data name="Def.Obj.Item.Clothing.Suit.Xenos.DisplayName" xml:space="preserve">
-  <value>sea devil costume suit</value>
+  <value>devil costume suit</value>
   <comment>alien costume suit</comment>
 </data>
 <data name="Def.Obj.Item.Clothing.Suit.Xenos.Verb.PickUp" xml:space="preserve">
@@ -43704,7 +43704,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>pick up</comment>
 </data>
 <data name="Def.Obj.Item.Moneybag.DisplayName" xml:space="preserve">
-  <value>bag o' doubloons</value>
+  <value>coin purse</value>
   <comment>Money bag</comment>
 </data>
 <data name="Def.Obj.Item.Moneybag.Verb.PickUp" xml:space="preserve">
@@ -72432,11 +72432,11 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>pick up</comment>
 </data>
 <data name="Honor.ApexPredator.Name" xml:space="preserve">
-  <value>SCOURGE O' THE DROWNED</value>
+  <value>DROWNED SLAYER</value>
   <comment>APEX PREDATOR</comment>
 </data>
 <data name="Honor.ApexPredator.Flavor" xml:space="preserve">
-  <value>most o' the Drowned slain, two hundred at the least</value>
+  <value>most Drowned slain, two hundred at the least</value>
   <comment>most zombies killed, two hundred at the least</comment>
 </data>
 <data name="Honor.TriggerHappy.Name" xml:space="preserve">
@@ -72476,7 +72476,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>BAGMAN</comment>
 </data>
 <data name="Honor.Bagman.Flavor" xml:space="preserve">
-  <value>most doubloons raised</value>
+  <value>most doubloons made</value>
   <comment>most money raised</comment>
 </data>
 <data name="Honor.Butterfingers.Name" xml:space="preserve">
@@ -72484,7 +72484,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>BUTTERFINGERS</comment>
 </data>
 <data name="Honor.Butterfingers.Flavor" xml:space="preserve">
-  <value>most shots into their own crew</value>
+  <value>most shots into own crew</value>
   <comment>most friendly fire dealt</comment>
 </data>
 <data name="Honor.IronJaw.Name" xml:space="preserve">
@@ -72492,7 +72492,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>IRON JAW</comment>
 </data>
 <data name="Honor.IronJaw.Flavor" xml:space="preserve">
-  <value>took the most blows t' the face an' elsewhere</value>
+  <value>took the most blows</value>
   <comment>most melee damage taken</comment>
 </data>
 <data name="Honor.Pacifist.Name" xml:space="preserve">
@@ -72500,11 +72500,11 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>PACIFIST</comment>
 </data>
 <data name="Honor.Pacifist.Flavor" xml:space="preserve">
-  <value>fewest o' the Drowned slain</value>
+  <value>fewest Drowned slain</value>
   <comment>fewest zombies killed</comment>
 </data>
 <data name="Honor.Brawler.Name" xml:space="preserve">
-  <value>TAVERN BRAWLER</value>
+  <value>BRAWLER</value>
   <comment>BRAWLER</comment>
 </data>
 <data name="Honor.Brawler.Flavor" xml:space="preserve">
@@ -72512,11 +72512,11 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>most melee damage dealt</comment>
 </data>
 <data name="Honor.FirstBlood.Name" xml:space="preserve">
-  <value>FIRST OVERBOARD</value>
+  <value>FIRST T' SINK</value>
   <comment>FIRST BLOOD</comment>
 </data>
 <data name="Honor.FirstBlood.Flavor" xml:space="preserve">
-  <value>first t' go t' Davy Jones fer good</value>
+  <value>first t' sink fer good</value>
   <comment>first to die for good</comment>
 </data>
 <data name="Honor.SoleSurvivor.Name" xml:space="preserve">
@@ -72544,7 +72544,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>most medicine prepared</comment>
 </data>
 <data name="Honor.Cleaner.Name" xml:space="preserve">
-  <value>DECK SWABBER</value>
+  <value>SWABBER</value>
   <comment>CLEANER</comment>
 </data>
 <data name="Honor.Cleaner.Flavor" xml:space="preserve">
@@ -72552,7 +72552,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>most tiles cleaned</comment>
 </data>
 <data name="Honor.LastStand.Name" xml:space="preserve">
-  <value>DOWN WITH THE SHIP</value>
+  <value>FINAL VOLLEY</value>
   <comment>LAST STAND</comment>
 </data>
 <data name="Honor.LastStand.Flavor" xml:space="preserve">
@@ -72572,11 +72572,11 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>UNDERTAKER</comment>
 </data>
 <data name="Honor.Undertaker.Flavor" xml:space="preserve">
-  <value>most bodies sent up in smoke</value>
+  <value>most bodies burned</value>
   <comment>most bodies cremated</comment>
 </data>
 <data name="Honor.JustInTime.Name" xml:space="preserve">
-  <value>SKIN O' YER TEETH</value>
+  <value>SKIN O' TEETH</value>
   <comment>JUST IN TIME</comment>
 </data>
 <data name="Honor.JustInTime.Flavor" xml:space="preserve">
@@ -72592,11 +72592,11 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>most xenomorphs destroyed</comment>
 </data>
 <data name="Honor.CodeBlue.Name" xml:space="preserve">
-  <value>MAN OVERBOARD</value>
+  <value>CLOSE SHAVE</value>
   <comment>CODE BLUE</comment>
 </data>
 <data name="Honor.CodeBlue.Flavor" xml:space="preserve">
-  <value>hauled someone back with seconds left before they went fer good</value>
+  <value>hauled someone back seconds before they went fer good</value>
   <comment>revived someone with seconds left before they went for good</comment>
 </data>
 <data name="Honor.MostHugged.Name" xml:space="preserve">
@@ -72624,7 +72624,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>most jackpots won, two at the least</comment>
 </data>
 <data name="Honor.Marked.Name" xml:space="preserve">
-  <value>JONES-KISSED</value>
+  <value>CURSED</value>
   <comment>MARKED</comment>
 </data>
 <data name="Honor.Marked.Flavor" xml:space="preserve">
@@ -72632,7 +72632,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>struck by the Old One and still made it out</comment>
 </data>
 <data name="Honor.LastCall.Name" xml:space="preserve">
-  <value>LAST BOAT OUT</value>
+  <value>LAST BOAT</value>
   <comment>LAST CALL</comment>
 </data>
 <data name="Honor.LastCall.Flavor" xml:space="preserve">
@@ -72640,15 +72640,15 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>caught the last ride out of a burning colony</comment>
 </data>
 <data name="Honor.Reaper.Name" xml:space="preserve">
-  <value>DREAD PIRATE</value>
+  <value>HEADSMAN</value>
   <comment>REAPER</comment>
 </data>
 <data name="Honor.Reaper.Flavor" xml:space="preserve">
-  <value>most o' the Drowned slain, a thousand at the least</value>
+  <value>most Drowned slain, a thousand at the least</value>
   <comment>most zombies killed, a thousand at the least</comment>
 </data>
 <data name="Honor.LockerLurker.Name" xml:space="preserve">
-  <value>DAVY JONES' LOCKER</value>
+  <value>JONES' LOCKER</value>
   <comment>LOCKER LURKER</comment>
 </data>
 <data name="Honor.LockerLurker.Flavor" xml:space="preserve">
@@ -72660,7 +72660,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>SLUG RACE</comment>
 </data>
 <data name="Honor.SlugRace.Flavor" xml:space="preserve">
-  <value>greatest distance crawled a leg short an' no peg t' lean on, fifty tiles at the least</value>
+  <value>greatest distance crawled a leg short an' no peg, fifty tiles at the least</value>
   <comment>greatest distance crawled with a leg left behind, fifty tiles at the least</comment>
 </data>
 <data name="Honor.StretcherBearer.Name" xml:space="preserve">
@@ -72688,7 +72688,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>Military fire discipline. Steadier aim and a faster follow-up shot.</comment>
 </data>
 <data name="Trait.Soldier.Name" xml:space="preserve">
-  <value>Able Seaman</value>
+  <value>Deckhand</value>
   <comment>Soldier</comment>
 </data>
 <data name="Trait.Soldier.Flavor" xml:space="preserve">
@@ -72696,7 +72696,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>Has completed bootcamp, so knows which end of the gun a bullet comes out of.</comment>
 </data>
 <data name="Trait.Marksman.Name" xml:space="preserve">
-  <value>Sharpshooter</value>
+  <value>Deadeye</value>
   <comment>Marksman</comment>
 </data>
 <data name="Trait.Marksman.Flavor" xml:space="preserve">
@@ -72720,7 +72720,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>Not really smart enough for this kind of thing.</comment>
 </data>
 <data name="Trait.Delicate.Name" xml:space="preserve">
-  <value>Fair-Weather</value>
+  <value>Delicate</value>
   <comment>Delicate</comment>
 </data>
 <data name="Trait.Delicate.Flavor" xml:space="preserve">
@@ -72732,7 +72732,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>Medic</comment>
 </data>
 <data name="Trait.Medic.Flavor" xml:space="preserve">
-  <value>I may not be a ship's surgeon, but I still know how t' patch folk up.</value>
+  <value>I may not be a surgeon, but I still know how t' patch folk up.</value>
   <comment>I may not be a surgeon, but I still know how to fix things.</comment>
 </data>
 <data name="Trait.Surgeon.Name" xml:space="preserve">
@@ -72768,7 +72768,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>Knows which bolt turns. Faster, more reliable repairs.</comment>
 </data>
 <data name="Trait.Sapper.Name" xml:space="preserve">
-  <value>Powder Monkey</value>
+  <value>Powderman</value>
   <comment>Sapper</comment>
 </data>
 <data name="Trait.Sapper.Flavor" xml:space="preserve">
@@ -72800,7 +72800,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>Knows every stain. Mops faster than anyone, and gets paid for the mess.</comment>
 </data>
 <data name="Trait.Connected.Name" xml:space="preserve">
-  <value>Friends in Port</value>
+  <value>Port Friends</value>
   <comment>Connected</comment>
 </data>
 <data name="Trait.Connected.Flavor" xml:space="preserve">
@@ -72816,7 +72816,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>Lived next to the ordnance long enough to stop flinching. Explosions hit softer.</comment>
 </data>
 <data name="Trait.Tough.Name" xml:space="preserve">
-  <value>Iron Hull</value>
+  <value>Ironclad</value>
   <comment>Tough</comment>
 </data>
 <data name="Trait.Tough.Flavor" xml:space="preserve">
@@ -72844,7 +72844,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>Negotiator</comment>
 </data>
 <data name="Trait.Negotiator.Flavor" xml:space="preserve">
-  <value>Knows how t' strike a deal. Cheaper prices at the W-Y coin coffer.</value>
+  <value>Knows how t' work a deal. Cheaper prices at the W-Y coffer.</value>
   <comment>Knows how to work a deal. Cheaper prices at the W-Y ATM.</comment>
 </data>
 <data name="Trait.PizzaChef.Name" xml:space="preserve">
@@ -72864,7 +72864,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>Spent too many years beside the gun. Cannot hear a word, and says everything at a shout.</comment>
 </data>
 <data name="Trait.Gunner.Name" xml:space="preserve">
-  <value>Swivel Gunner</value>
+  <value>Gunner</value>
   <comment>Gunner</comment>
 </data>
 <data name="Trait.Gunner.Flavor" xml:space="preserve">
@@ -74904,11 +74904,11 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>Rifleman</comment>
 </data>
 <data name="Loadout.Marine.Sapper.Name" xml:space="preserve">
-  <value>Powder Monkey</value>
+  <value>Powderman</value>
   <comment>Sapper</comment>
 </data>
 <data name="Loadout.Marine.Marksman.Name" xml:space="preserve">
-  <value>Sharpshooter</value>
+  <value>Deadeye</value>
   <comment>Sniper</comment>
 </data>
 <data name="Loadout.Marine.Grenadier.Name" xml:space="preserve">
@@ -74916,7 +74916,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>Grenadier</comment>
 </data>
 <data name="Loadout.Surgeon.Name" xml:space="preserve">
-  <value>Ship's Surgeon</value>
+  <value>Bonesetter</value>
   <comment>Surgeon</comment>
 </data>
 <data name="Loadout.Mercenary.Name" xml:space="preserve">
@@ -74928,7 +74928,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>PMC Operative</comment>
 </data>
 <data name="Loadout.Ert.PmcMedic.Name" xml:space="preserve">
-  <value>Privateer Sawbones</value>
+  <value>PMC Sawbones</value>
   <comment>PMC Medic</comment>
 </data>
 <data name="Loadout.Ert.CbrnLeader.Name" xml:space="preserve">
@@ -74960,7 +74960,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>Pilot</comment>
 </data>
 <data name="Loadout.Sorokyne.Chef.Name" xml:space="preserve">
-  <value>Galley Cook</value>
+  <value>Cook</value>
   <comment>Chef</comment>
 </data>
 <data name="Loadout.Anomaly.Mercenary.Name" xml:space="preserve">
@@ -74992,7 +74992,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>Rifleman</comment>
 </data>
 <data name="Loadout.Anomaly.Marine.Sapper.Name" xml:space="preserve">
-  <value>Powder Monkey</value>
+  <value>Powderman</value>
   <comment>Sapper</comment>
 </data>
 <data name="Loadout.Anomaly.Marine.MachineGunner.Name" xml:space="preserve">
@@ -75000,7 +75000,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>Machine-gunner</comment>
 </data>
 <data name="Loadout.Anomaly.Marine.Sniper.Name" xml:space="preserve">
-  <value>Sharpshooter</value>
+  <value>Deadeye</value>
   <comment>Sniper</comment>
 </data>
 <data name="Loadout.Anomaly.Marine.Grenadier.Name" xml:space="preserve">
@@ -75008,7 +75008,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>Grenadier</comment>
 </data>
 <data name="Loadout.Anomaly.Marine.Pyro.Name" xml:space="preserve">
-  <value>Fire-breather</value>
+  <value>Firebrand</value>
   <comment>Flamer</comment>
 </data>
 <data name="Intro.CAPE.Title" xml:space="preserve">
@@ -75092,15 +75092,15 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>HAZARD ADVISORY: ACTIVE LAVA / ASH STORMS</comment>
 </data>
 <data name="Modifier.NoRespawns.Label" xml:space="preserve">
-  <value>DAVY JONES KEEPS ALL</value>
+  <value>JONES KEEPS YE</value>
   <comment>NO RESPAWNS</comment>
 </data>
 <data name="Modifier.NoRespawns.Tooltip" xml:space="preserve">
-  <value>NONE COME BACK FROM THE LOCKER // ONE LIFE PER VOYAGE</value>
+  <value>THE LOCKER KEEPS ALL // ONE LIFE PER VOYAGE</value>
   <comment>RESPAWNS ARE DISABLED // ONE LIFE PER ROUND</comment>
 </data>
 <data name="Modifier.ZombieWaves.Label" xml:space="preserve">
-  <value>TIDES O' THE DROWNED</value>
+  <value>DROWNED TIDES</value>
   <comment>ZOMBIE WAVES</comment>
 </data>
 <data name="Modifier.ZombieWaves.Tooltip" xml:space="preserve">
@@ -75132,7 +75132,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>AN UNNATURAL ENTITY HAUNTS THE COLONY // IT CANNOT BE KILLED // IT HEARS YOUR VOICE</comment>
 </data>
 <data name="Modifier.Containment.Label" xml:space="preserve">
-  <value>CAGE DAVY JONES</value>
+  <value>CAGE JONES</value>
   <comment>CONTAINMENT</comment>
 </data>
 <data name="Modifier.Containment.Tooltip" xml:space="preserve">
@@ -75148,7 +75148,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>SURVIVORS MUST REACH THE EXTRACTION SITE // THE EXTRACTION PHASE LASTS {ExtractionMinutes} MINUTES</comment>
 </data>
 <data name="Mode.Extended.DisplayName" xml:space="preserve">
-  <value>The Long Haul</value>
+  <value>Long Haul</value>
   <comment>Extended</comment>
 </data>
 <data name="Mode.ZombieSurvival.DisplayName" xml:space="preserve">
