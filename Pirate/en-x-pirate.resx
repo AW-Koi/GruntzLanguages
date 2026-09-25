@@ -72712,7 +72712,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>I was not prepared for this... I am not ready.</comment>
 </data>
 <data name="Trait.Grunt.Name" xml:space="preserve">
-  <value>Grunt</value>
+  <value>Scallywag</value>
   <comment>Grunt</comment>
 </data>
 <data name="Trait.Grunt.Flavor" xml:space="preserve">
