@@ -7028,7 +7028,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>A/D, ARROWS OR 1-9 TO BROWSE // ENTER OR DEPLOY TO SPAWN // {KEY} FOR SURVEY MAP</comment>
 </data>
 <data name="LoadoutSelect.FooterSelectedLine" xml:space="preserve">
-  <value>W-Y COLONY NET // LANDIN' TERMINAL // {NAME} CHOSEN</value>
+  <value>PIRATE BAND ON W-Y NET // LANDIN' TERMINAL // {NAME} CHOSEN</value>
   <comment>W-Y COLONY NET // DEPLOYMENT TERMINAL // {NAME} SELECTED</comment>
 </data>
 <data name="LoadoutSelect.FooterInFlight" xml:space="preserve">
@@ -8004,7 +8004,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>VOTE CAST // CLOSES IN {SECONDS}S</comment>
 </data>
 <data name="EorScreen.FooterArchiveLine" xml:space="preserve">
-  <value>VOYAGE LOGGED // W-Y COLONY NET // NEXT VOYAGE PENDIN'</value>
+  <value>VOYAGE LOGGED // PIRATE BAND ON W-Y NET // NEXT VOYAGE PENDIN'</value>
   <comment>ROUND ARCHIVED // W-Y COLONY NET // NEXT OPERATION PENDING</comment>
 </data>
 <data name="EorScreen.DeathDetailLine" xml:space="preserve">
