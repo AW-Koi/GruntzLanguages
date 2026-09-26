@@ -7188,7 +7188,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>FOG</comment>
 </data>
 <data name="CrtAhwooPanel.Title" xml:space="preserve">
-  <value>AHWOO</value>
+  <value>YE SAILING AHWOO AS</value>
   <comment>AHWOO</comment>
 </data>
 <data name="CrtAhwooPanel.NotConnected" xml:space="preserve">
@@ -7944,7 +7944,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>NO DEPLOYMENT</comment>
 </data>
 <data name="EorScreen.ObservingStatus" xml:space="preserve">
-  <value>~ON LOOKOUT</value>
+  <value>ON LOOKOUT</value>
   <comment>~OBSERVING</comment>
 </data>
 <data name="EorScreen.UnknownName" xml:space="preserve">
