@@ -132,11 +132,11 @@ The file is looked up beside this language file first, then under the game's Con
   <value>Pirate Speak</value>
 </data>
 <data name="MainMenu.FooterNet" xml:space="preserve">
-  <value>W-Y COLONY NET</value>
+  <value>PIRATE BAND ON W-Y NET</value>
   <comment>W-Y COLONY NET</comment>
 </data>
 <data name="MainMenu.StatusIdle" xml:space="preserve">
-  <value>BECALMED</value>
+  <value>STANDIN' BY</value>
   <comment>LINK IDLE</comment>
 </data>
 <data name="MainMenu.JoinTitle" xml:space="preserve">
@@ -144,7 +144,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>JOIN GAME</comment>
 </data>
 <data name="MainMenu.AddressLabel" xml:space="preserve">
-  <value>HEADING</value>
+  <value>PORT O' CALL</value>
   <comment>ADDRESS</comment>
 </data>
 <data name="MainMenu.OperativeLabel" xml:space="preserve">
@@ -156,7 +156,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>CANCEL</comment>
 </data>
 <data name="MainMenu.ConnectLabel" xml:space="preserve">
-  <value>ABOARD</value>
+  <value>SET SAIL</value>
   <comment>CONNECT</comment>
 </data>
 <data name="MainMenu.JoinRefusalLine" xml:space="preserve">
@@ -272,27 +272,27 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>FORUMS // OPENING AHWOO FORUMS</comment>
 </data>
 <data name="MainMenu.AhwooPrefix" xml:space="preserve">
-  <value>AHWOO LINK // </value>
+  <value>YE BE SAILIN' FROM AHWOO AS </value>
   <comment>AHWOO LINK // </comment>
 </data>
 <data name="MainMenu.AhwooActive" xml:space="preserve">
-  <value>SHIPSHAPE</value>
+  <value>A NAMELESS HAND</value>
   <comment>ACTIVE</comment>
 </data>
 <data name="MainMenu.AhwooNotDetected" xml:space="preserve">
-  <value>NOT SIGHTED</value>
+  <value>A GHOST // AHWOO NOT SIGHTED</value>
   <comment>NOT DETECTED</comment>
 </data>
 <data name="MainMenu.AhwooOfflineMode" xml:space="preserve">
-  <value>OFFLINE MODE</value>
+  <value>A LONE SLOOP // OFFLINE</value>
   <comment>OFFLINE MODE</comment>
 </data>
 <data name="MainMenu.AhwooSignedOut" xml:space="preserve">
-  <value>SIGNED OUT</value>
+  <value>NOBODY // SIGNED OUT</value>
   <comment>SIGNED OUT</comment>
 </data>
 <data name="MainMenu.AhwooNoResponse" xml:space="preserve">
-  <value>NO ANSWER</value>
+  <value>A GHOST // NO ANSWER</value>
   <comment>NO RESPONSE</comment>
 </data>
 <data name="MainMenu.Row.CharacterSetup.Label" xml:space="preserve">
