@@ -12664,15 +12664,15 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>facehugger</comment>
 </data>
 <data name="Def.Character.Xeno.Larva.DisplayName" xml:space="preserve">
-  <value>devilkin</value>
+  <value>devilspawn</value>
   <comment>larva</comment>
 </data>
 <data name="Def.Character.Xeno.Larva.Lurking.DisplayName" xml:space="preserve">
-  <value>devilkin</value>
+  <value>devilspawn</value>
   <comment>larva</comment>
 </data>
 <data name="Def.Character.Xeno.Larva.InVent.DisplayName" xml:space="preserve">
-  <value>devilkin</value>
+  <value>devilspawn</value>
   <comment>larva</comment>
 </data>
 <data name="Def.Character.Xeno.Drone.DisplayName" xml:space="preserve">
@@ -12736,27 +12736,27 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>dead facehugger</comment>
 </data>
 <data name="Def.Xeno.Embryo.Stage1.DisplayName" xml:space="preserve">
-  <value>devilkin</value>
+  <value>devilspawn</value>
   <comment>embryo</comment>
 </data>
 <data name="Def.Xeno.Embryo.Stage2.DisplayName" xml:space="preserve">
-  <value>devilkin</value>
+  <value>devilspawn</value>
   <comment>embryo</comment>
 </data>
 <data name="Def.Xeno.Embryo.Stage3.DisplayName" xml:space="preserve">
-  <value>devilkin</value>
+  <value>devilspawn</value>
   <comment>embryo</comment>
 </data>
 <data name="Def.Xeno.Embryo.Stage4.DisplayName" xml:space="preserve">
-  <value>devilkin</value>
+  <value>devilspawn</value>
   <comment>embryo</comment>
 </data>
 <data name="Def.Xeno.Embryo.Stage5.DisplayName" xml:space="preserve">
-  <value>devilkin</value>
+  <value>devilspawn</value>
   <comment>embryo</comment>
 </data>
 <data name="Def.Xeno.Embryo.Removed.DisplayName" xml:space="preserve">
-  <value>extracted devilkin</value>
+  <value>extracted devilspawn</value>
   <comment>extracted embryo</comment>
 </data>
 <data name="Def.Character.Anomaly.OldOne.DisplayName" xml:space="preserve">
@@ -30680,7 +30680,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>cargo train trolley</comment>
 </data>
 <data name="Def.Obj.Item.AlienEmbryo.DisplayName" xml:space="preserve">
-  <value>devilkin</value>
+  <value>devilspawn</value>
   <comment>alien embryo</comment>
 </data>
 <data name="Def.Obj.Item.AlienEmbryo.Verb.PickUp" xml:space="preserve">
