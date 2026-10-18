@@ -19780,7 +19780,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>Flare supply crate (x200)</comment>
 </data>
 <data name="Def.Obj.Structure.Largecrate.Supply.Supplies.Metal.DisplayName" xml:space="preserve">
-  <value>metal sheets supply crate (x200)</value>
+  <value>metal boards supply crate (x200)</value>
   <comment>metal sheets supply crate (x200)</comment>
 </data>
 <data name="Def.Obj.Structure.Largecrate.Supply.Supplies.Mre.DisplayName" xml:space="preserve">
@@ -52720,7 +52720,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>pick up</comment>
 </data>
 <data name="Def.Obj.Item.Stack.Sheet.Metal.DisplayName" xml:space="preserve">
-  <value>metal sheets</value>
+  <value>metal boards</value>
   <comment>metal sheets</comment>
 </data>
 <data name="Def.Obj.Item.Stack.Sheet.Metal.Verb.PickUp" xml:space="preserve">
@@ -52728,7 +52728,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>pick up</comment>
 </data>
 <data name="Def.Obj.Item.Stack.Sheet.Metal.LargeStack.DisplayName" xml:space="preserve">
-  <value>metal sheets</value>
+  <value>metal boards</value>
   <comment>metal sheets</comment>
 </data>
 <data name="Def.Obj.Item.Stack.Sheet.Metal.LargeStack.Verb.PickUp" xml:space="preserve">
@@ -52736,7 +52736,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>pick up</comment>
 </data>
 <data name="Def.Obj.Item.Stack.Sheet.Metal.MedLargeStack.DisplayName" xml:space="preserve">
-  <value>metal sheets</value>
+  <value>metal boards</value>
   <comment>metal sheets</comment>
 </data>
 <data name="Def.Obj.Item.Stack.Sheet.Metal.MedLargeStack.Verb.PickUp" xml:space="preserve">
@@ -52744,7 +52744,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>pick up</comment>
 </data>
 <data name="Def.Obj.Item.Stack.Sheet.Metal.MedSmallStack.DisplayName" xml:space="preserve">
-  <value>metal sheets</value>
+  <value>metal boards</value>
   <comment>metal sheets</comment>
 </data>
 <data name="Def.Obj.Item.Stack.Sheet.Metal.MedSmallStack.Verb.PickUp" xml:space="preserve">
@@ -52752,7 +52752,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>pick up</comment>
 </data>
 <data name="Def.Obj.Item.Stack.Sheet.Metal.MediumStack.DisplayName" xml:space="preserve">
-  <value>metal sheets</value>
+  <value>metal boards</value>
   <comment>metal sheets</comment>
 </data>
 <data name="Def.Obj.Item.Stack.Sheet.Metal.MediumStack.Verb.PickUp" xml:space="preserve">
@@ -52760,7 +52760,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>pick up</comment>
 </data>
 <data name="Def.Obj.Item.Stack.Sheet.Metal.SmallStack.DisplayName" xml:space="preserve">
-  <value>metal sheets</value>
+  <value>metal boards</value>
   <comment>metal sheets</comment>
 </data>
 <data name="Def.Obj.Item.Stack.Sheet.Metal.SmallStack.Verb.PickUp" xml:space="preserve">
@@ -52840,7 +52840,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>pick up</comment>
 </data>
 <data name="Def.Obj.Item.Stack.Sheet.Plasteel.DisplayName" xml:space="preserve">
-  <value>plasteel sheet</value>
+  <value>plasteel board</value>
   <comment>plasteel sheet</comment>
 </data>
 <data name="Def.Obj.Item.Stack.Sheet.Plasteel.Verb.PickUp" xml:space="preserve">
@@ -52848,7 +52848,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>pick up</comment>
 </data>
 <data name="Def.Obj.Item.Stack.Sheet.Plasteel.LargeStack.DisplayName" xml:space="preserve">
-  <value>plasteel sheet</value>
+  <value>plasteel board</value>
   <comment>plasteel sheet</comment>
 </data>
 <data name="Def.Obj.Item.Stack.Sheet.Plasteel.LargeStack.Verb.PickUp" xml:space="preserve">
@@ -52856,7 +52856,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>pick up</comment>
 </data>
 <data name="Def.Obj.Item.Stack.Sheet.Plasteel.MedLargeStack.DisplayName" xml:space="preserve">
-  <value>plasteel sheet</value>
+  <value>plasteel board</value>
   <comment>plasteel sheet</comment>
 </data>
 <data name="Def.Obj.Item.Stack.Sheet.Plasteel.MedLargeStack.Verb.PickUp" xml:space="preserve">
@@ -52864,7 +52864,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>pick up</comment>
 </data>
 <data name="Def.Obj.Item.Stack.Sheet.Plasteel.MedSmallStack.DisplayName" xml:space="preserve">
-  <value>plasteel sheet</value>
+  <value>plasteel board</value>
   <comment>plasteel sheet</comment>
 </data>
 <data name="Def.Obj.Item.Stack.Sheet.Plasteel.MedSmallStack.Verb.PickUp" xml:space="preserve">
@@ -52872,7 +52872,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>pick up</comment>
 </data>
 <data name="Def.Obj.Item.Stack.Sheet.Plasteel.MediumStack.DisplayName" xml:space="preserve">
-  <value>plasteel sheet</value>
+  <value>plasteel board</value>
   <comment>plasteel sheet</comment>
 </data>
 <data name="Def.Obj.Item.Stack.Sheet.Plasteel.MediumStack.Verb.PickUp" xml:space="preserve">
@@ -52880,7 +52880,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>pick up</comment>
 </data>
 <data name="Def.Obj.Item.Stack.Sheet.Plasteel.SmallStack.DisplayName" xml:space="preserve">
-  <value>plasteel sheet</value>
+  <value>plasteel board</value>
   <comment>plasteel sheet</comment>
 </data>
 <data name="Def.Obj.Item.Stack.Sheet.Plasteel.SmallStack.Verb.PickUp" xml:space="preserve">
@@ -75692,15 +75692,15 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>filled sandbags</comment>
 </data>
 <data name="StackFamily.glass sheets" xml:space="preserve">
-  <value>glass sheets</value>
+  <value>glass boards</value>
   <comment>glass sheets</comment>
 </data>
 <data name="StackFamily.metal sheets" xml:space="preserve">
-  <value>metal sheets</value>
+  <value>metal boards</value>
   <comment>metal sheets</comment>
 </data>
 <data name="StackFamily.plasteel sheets" xml:space="preserve">
-  <value>plasteel sheets</value>
+  <value>plasteel boards</value>
   <comment>plasteel sheets</comment>
 </data>
 <data name="StackFamily.wood planks" xml:space="preserve">
@@ -78832,7 +78832,7 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>barricades, girders and tables are what a recipe builds; each page lists its hit points and how it comes apart</comment>
 </data>
 <data name="Guide.Section.Construction.Materials" xml:space="preserve">
-  <value>sheets and planks are the stacks a recipe spends; a family groups every stack that counts as the same material</value>
+  <value>boards and planks are the stacks a recipe spends; a family groups every stack that counts as the same material</value>
   <comment>sheets and planks are the stacks a recipe spends; a family groups every stack that counts as the same material</comment>
 </data>
 <data name="Guide.Section.Galley.Recipes" xml:space="preserve">
@@ -78868,11 +78868,11 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>a prybar swings five times harder than a plain crowbar and pries just the same</comment>
 </data>
 <data name="Guide.Entity.Obj.Structure.Barricade.Metal" xml:space="preserve">
-  <value>screw, then wrench, then pry to take it down. a nailgun mends 10 percent per shot. it breaks into 2 metal sheets</value>
+  <value>screw, then wrench, then pry to take it down. a nailgun mends 10 percent per shot. it breaks into 2 metal boards</value>
   <comment>screw, then wrench, then pry to take it down. a nailgun mends 10 percent per shot. it breaks into 2 metal sheets</comment>
 </data>
 <data name="Guide.Entity.Obj.Structure.Girder" xml:space="preserve">
-  <value>a girder is half a wall; weld metal sheets onto it to finish</value>
+  <value>a girder is half a wall; weld metal boards onto it to finish</value>
   <comment>a girder is half a wall; weld metal sheets onto it to finish</comment>
 </data>
 <data name="Guide.Entity.Obj.Item.Device.Defibrillator" xml:space="preserve">
